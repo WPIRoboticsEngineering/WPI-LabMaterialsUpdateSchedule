@@ -1,0 +1,197 @@
+MPX,Microsoft Project for Windows,4.0,ANSI
+10,$,1,2,",",.
+11,2,0,1,8.00,40.00,$10.00/h,$15.00/h,1,0
+12,1,0,480,/,:,am,pm,20,20
+20,Standard,0,1,1,1,1,1,0
+25,1
+25,2,08:00 am,12:00 pm,01:00 pm,05:00 pm
+25,3,08:00 am,12:00 pm,01:00 pm,05:00 pm
+25,4,08:00 am,12:00 pm,01:00 pm,05:00 pm
+25,5,08:00 am,12:00 pm,01:00 pm,05:00 pm
+25,6,08:00 am,12:00 pm,01:00 pm,05:00 pm
+25,7
+26,21/01/08,21/01/08,0
+26,18/02/08,18/02/08,0
+26,26/05/08,26/05/08,0
+26,01/09/08,01/09/08,0
+26,13/10/08,13/10/08,0
+26,27/11/08,27/11/08,0
+26,19/01/09,19/01/09,0
+26,16/02/09,16/02/09,0
+26,25/05/09,25/05/09,0
+26,03/07/09,03/07/09,0
+26,07/09/09,07/09/09,0
+26,12/10/09,12/10/09,0
+26,26/11/09,26/11/09,0
+26,18/01/10,18/01/10,0
+26,15/02/10,15/02/10,0
+26,31/05/10,31/05/10,0
+26,05/07/10,05/07/10,0
+26,06/09/10,06/09/10,0
+26,11/10/10,11/10/10,0
+26,25/11/10,25/11/10,0
+26,24/12/10,24/12/10,0
+26,31/12/10,31/12/10,0
+26,17/01/11,17/01/11,0
+26,21/02/11,21/02/11,0
+26,30/05/11,30/05/11,0
+26,05/09/11,05/09/11,0
+26,10/10/11,10/10/11,0
+26,24/11/11,24/11/11,0
+26,26/12/11,26/12/11,0
+26,02/01/12,02/01/12,0
+26,16/01/12,16/01/12,0
+26,20/02/12,20/02/12,0
+26,28/05/12,28/05/12,0
+26,03/09/12,03/09/12,0
+26,08/10/12,08/10/12,0
+26,12/11/12,12/11/12,0
+26,22/11/12,22/11/12,0
+26,21/01/13,21/01/13,0
+26,18/02/13,18/02/13,0
+26,27/05/13,27/05/13,0
+26,02/09/13,02/09/13,0
+26,14/10/13,14/10/13,0
+26,28/11/13,28/11/13,0
+26,20/01/14,20/01/14,0
+26,17/02/14,17/02/14,0
+26,26/05/14,26/05/14,0
+26,01/09/14,01/09/14,0
+26,13/10/14,13/10/14,0
+26,27/11/14,27/11/14,0
+26,26/12/14,26/12/14,0
+26,19/01/15,19/01/15,0
+26,16/02/15,16/02/15,0
+26,25/05/15,25/05/15,0
+26,03/07/15,03/07/15,0
+26,07/09/15,07/09/15,0
+26,12/10/15,12/10/15,0
+26,26/11/15,26/11/15,0
+26,18/01/16,18/01/16,0
+26,15/02/16,15/02/16,0
+26,30/05/16,30/05/16,0
+26,05/09/16,05/09/16,0
+26,10/10/16,10/10/16,0
+26,24/11/16,24/11/16,0
+26,26/12/16,26/12/16,0
+26,02/01/17,02/01/17,0
+26,16/01/17,16/01/17,0
+26,20/02/17,20/02/17,0
+26,29/05/17,29/05/17,0
+26,04/09/17,04/09/17,0
+26,09/10/17,09/10/17,0
+26,10/11/17,10/11/17,0
+26,23/11/17,23/11/17,0
+26,15/01/18,15/01/18,0
+26,19/02/18,19/02/18,0
+26,28/05/18,28/05/18,0
+26,03/09/18,03/09/18,0
+26,08/10/18,08/10/18,0
+26,22/11/18,22/11/18,0
+26,21/01/19,21/01/19,0
+26,18/02/19,18/02/19,0
+26,27/05/19,27/05/19,0
+26,02/09/19,02/09/19,0
+26,14/10/19,14/10/19,0
+26,28/11/19,28/11/19,0
+26,20/01/20,20/01/20,0
+26,17/02/20,17/02/20,0
+26,25/05/20,25/05/20,0
+26,03/07/20,03/07/20,0
+26,07/09/20,07/09/20,0
+26,12/10/20,12/10/20,0
+26,26/11/20,26/11/20,0
+30,Project1,,,Standard,10/05/2021,03/05/2023,0,15/11/2020,,$0.00,$0.00,$0.00,0h,0h,0h,0%,0d,0d,0d,0%,,,,,0d,0d
+40,Name,Email Address,ID,Unique ID
+41,1,11,40,49
+50,Lab Staff Engineers,,1,1
+50,UPC,,2,2
+50,Professors of Class Being Updated,,3,3
+50,All Faculty,,4,4
+60,Name,WBS,Outline Level,Cost,Duration,Actual Duration,Remaining Duration,% Complete,Start,Finish,Predecessors,Fixed,Milestone,ID,Constraint Type,Priority,Unique ID,Outline Number
+61,1,2,3,30,40,42,43,44,50,51,70,80,81,90,91,95,98,99
+70,,0,0,,724d,,,,10/05/2021,03/05/2023,,No,,0,As Soon As Possible,,0,0
+70,Summer Investigation phase,1,1,$0.00,115d,0d,115d,0%,10/05/2021,15/10/2021,,No,No,1,As Soon As Possible,Medium,54,1
+71,"UPC in collaboration with the teaching professors should discuss possible new hands-on activities such as labs and homeworks. These new activities will bring up new objectives that can not be met with existing lab solutions, or are too expensive or are too difficult for students and teaching staff. Discussions should be had with Lab Staff with respect to theoretical possibilities. Discussion should also include input form student surveys.Discussion should include input from the Board of Advisers. "
+75,1,1,115d,,0d,,,,,10/05/2021,15/10/2021,,1
+76,,0,0,NA,NA
+75,2,1,115d,,0d,,,,,10/05/2021,15/10/2021,,2
+76,,0,0,NA,NA
+75,3,1,115d,,0d,,,,,10/05/2021,15/10/2021,,3
+76,,0,0,NA,NA
+70,A-B break Propose new changes,2,1,$0.00,0d,0d,0d,0%,18/10/2021,18/10/2021,1,No,Yes,2,As Soon As Possible,Medium,152,2
+71,"The A-B break scheduled as the official proposal season for new changes. Which class is to be updated follows a know cycle. 5 years (or as many are available) of student outcomes with the previous version of the class should be addressed. Advisory Board feedback is expected before proposing a new change. Changes should take the form of lab objectives, and homework objectives. "
+75,2,1,0d,,0d,,,,,18/10/2021,18/10/2021,,2
+76,,0,0,NA,NA
+70,B term Open Discussion of changes Period,3,1,$0.00,60d,0d,60d,0%,18/10/2021,10/01/2022,2,No,No,3,As Soon As Possible,Medium,4,3
+71,During this period the proposed changes are discussed by the faculty and the issues sent back to UPC. Curriculum issues are highlighted and the petogogical objectives are evaluated. 
+75,4,1,60d,,0d,,,,,18/10/2021,10/01/2022,,4
+76,,0,0,NA,NA
+70,Changes Finalized Into Requirements - Passed to R/D,4,1,$0.00,0d,0d,0d,0%,11/01/2022,11/01/2022,3,No,Yes,4,As Soon As Possible,Medium,13,4
+71,"Milestone: Finalize change requestWith approval of the faculty, the changes proposed by UPC are passed off to Lab Design Engineers for R/D. This unlocks some of the development funds to purchase and produce preliminary parts for evaluation. These parts may or may not make it to the lab test round. If they are not used, they will be availible to students through Odoo. This represents new lab and homework objectives. This should be a complete list of the required objectives for hands on learning in the class. This should take into account what skills can be assumed from previous classes.This should  tak into account what practical skills the class needs to provide to classes later in the series. "
+75,1,1,0d,,0d,,,,,11/01/2022,11/01/2022,,1
+76,,0,0,NA,NA
+75,2,1,0d,,0d,,,,,11/01/2022,11/01/2022,,2
+76,,0,0,NA,NA
+70,C term Convert Requirements to Specifications,5,1,$0.00,41d,0d,41d,0%,11/01/2022,08/03/2022,4,No,No,5,As Soon As Possible,Medium,17,5
+71,Take the Requirements and conver them into parts selection options. Be prepared to discuss the discuss *multiple parts kit options* as specificitions that meet the Requirements. 
+75,1,1,41d,,0d,,,,,11/01/2022,08/03/2022,,1
+76,,0,0,NA,NA
+70,Finalize Parts Selection for Development and Testing,6,1,$0.00,0d,0d,0d,0%,09/03/2022,09/03/2022,5,No,Yes,6,As Soon As Possible,Medium,24,6
+71,Parts are selected for prototyping and testing phases. One set of hardware is selected to be purchased and produced. This set will be used to develop the updated lab and homework material. This list is brought to the UPC for approval. This approval unlocks the rest of the development funds to develop the prototypes and test classes. The formal list of objectives must be possible with the given solution. The changes should represent improvements in possible technology access and aim for the highest possible technological capibility given time and money constraints. Open Source/Open Hardware technology is prefered. Custom engineering work done by WPI staff is always Open Source. Technology chosen must not leak students private data.
+75,1,1,0d,,0d,,,,,09/03/2022,09/03/2022,,1
+76,,0,0,NA,NA
+75,2,1,0d,,0d,,,,,09/03/2022,09/03/2022,,2
+76,,0,0,NA,NA
+70,D Term Development Phase,7,1,$0.00,40d,0d,40d,0%,09/03/2022,03/05/2022,6,No,No,7,As Soon As Possible,Medium,55,7
+71,In this phase the hardware kits for all hands-on activities should be fully built and tested by R/D staff. Consideration should be given to how this kit interfaces with existing kits of hardware. Tools for working with the hands-on activity are also tested. Tool compatibility with Lab PC's must be verified. This cycles budget comes from the previous years APBP.
+75,1,1,40d,,0d,,,,,09/03/2022,03/05/2022,,1
+76,,0,0,NA,NA
+70,"D term Lab , Homework, Documentation Documents Updated",8,1,$0.00,48d,0d,48d,0%,09/03/2022,13/05/2022,6,No,No,8,As Soon As Possible,Medium,88,8
+71,Example lab procedures that meet objectives will be drafted during this phase. Collaboration between the lab staff and the professors that will be teaching this class is desirable. Lab R/D staff may draft procedures if professor attention is scarce. This should take place between the end of D term and the start of E1
+75,3,0.5,48d,,0d,,,,,09/03/2022,13/05/2022,,3
+76,,0,0,NA,NA
+70,E1 Update all of the lecture slides and record videos,9,1,$0.00,34d,0d,34d,0%,16/05/2022,30/06/2022,8,No,No,9,As Soon As Possible,Medium,89,9
+71,Any lecture slides for this class should be updated. The student workers will be using the slides as the source of material for performing the new labs. If the professor wishes to give test lectures the students will be available for that as well. This would also be the period that any new tutorial videos should be recorded.  Any live lectures given to student workers can be recorded and used as the lectures for the A term ISP to lighten the load of the teaching professor. 
+75,3,0.5,34d,,0d,,,,,16/05/2022,30/06/2022,,3
+76,,0,0,NA,NA
+70,E1 Test Class Run With Paid Student Workers,10,1,$0.00,34d,0d,34d,0%,16/05/2022,30/06/2022,8,No,No,10,As Soon As Possible,Medium,94,10
+71,During E1 a test class with the new labs is run through. The students will have access to the new materials and have to complete the labs and homeworks. Any additional material needed will be highlighted by these student test. By running test classes with paid workers instead of paying students we ensure that no students grade or education outcome is influenced by the unknown-unknowns of the first drafts. 
+75,1,0.5,34d,,0d,,,,,16/05/2022,30/06/2022,,1
+76,,0,0,NA,NA
+75,3,0.5,34d,,0d,,,,,16/05/2022,30/06/2022,,3
+76,,0,0,NA,NA
+70,E2 Feedback from Test Class Incorporated and Re-Run,11,1,$0.00,25d,0d,25d,0%,11/07/2022,12/08/2022,10,No,No,11,As Soon As Possible,Medium,96,11
+71,During E2 we will re-incorporate and restructure the class from E1. This restructured class will be run through by the same students again.  This avoids any errors in the corrections or restructuring effecting student outcomes. The second run through the labs produce a set of known-good solution examples to be provided to graders and SA's. 
+75,1,0.75,25d,,0d,,,,,11/07/2022,12/08/2022,,1
+76,,0,0,NA,NA
+75,3,0.25,25d,,0d,,,,,11/07/2022,12/08/2022,,3
+76,,0,0,NA,NA
+70,Milestone A term Start All Documents updated,12,1,$0.00,0d,0d,0d,0%,25/08/2022,25/08/2022,"8,9,19",No,Yes,12,As Soon As Possible,Medium,103,12
+71,"All Documents updatedDocuments for new labs, homeworks and instructions are all updated, tested and ready for use with a test class. This milestone triggers the bulk purchase of new components in second semester roll out. Production orders for new hardware placed now. New device production should be sent out to the in house production as much as possible. "
+70,A term Test ISP For Credit,13,1,$0.00,37d,0d,37d,0%,25/08/2022,14/10/2022,12,No,No,13,As Soon As Possible,Medium,110,13
+71,An ISP  is run for 3 students that will cross-count for the class that is being updated. Students should have access to updated lecture slides and new tutorial videos.  Recorded lectures from the summer session can be used and supplemented by live instruction as the professor sees fit. 
+75,1,0.5,37d,,0d,,,,,25/08/2022,14/10/2022,,1
+76,,0,0,NA,NA
+75,3,0.5,37d,,0d,,,,,25/08/2022,14/10/2022,,3
+76,,0,0,NA,NA
+70,B term Feedback From Experimental Class Incorporated,14,1,$0.00,44d,0d,44d,0%,17/10/2022,16/12/2022,13,No,No,14,As Soon As Possible,Medium,114,14
+71,Any changes in documentation or teaching materials are re-incorporated and finalized into the final version of the materials. 
+75,1,0.5,44d,,0d,,,,,17/10/2022,16/12/2022,,1
+76,,0,0,NA,NA
+75,3,0.5,44d,,0d,,,,,17/10/2022,16/12/2022,,3
+76,,0,0,NA,NA
+70,Finalize Course Material,15,1,$0.00,0d,0d,0d,0%,06/01/2023,06/01/2023,14,No,Yes,15,As Soon As Possible,Medium,118,15
+71,MilestoneFinal version of lecture slides.Final version of lab documents.Final version  of lab kit contents. Export Canvas state.Known good solutions are updated with the Experimental course solutions. Kit of all this material is presented to UPC for archival and for use with by any future teaching professors. 
+75,2,1,0d,,0d,,,,,06/01/2023,06/01/2023,,2
+76,,0,0,NA,NA
+70,Second Semester Roll Out,16,1,$0.00,84d,0d,84d,0%,06/01/2023,03/05/2023,15,No,No,16,As Soon As Possible,Medium,120,16
+71,"The second semester version of the class in question will receive the full class update. For 1001, 2001 and 3001 this means C term roll out.For 2002 and 3002 that means a D term roll out."
+75,3,1,84d,,0d,,,,,06/01/2023,03/05/2023,,3
+76,,0,0,NA,NA
+70,Budget Plan Due APBP For Next Year,17,1,$0.00,0d,0d,0d,0%,15/03/2022,15/03/2022,6FF,No,Yes,17,As Soon As Possible,Medium,143,17
+71,"The plan for how we intend to spend any money spent next year has to be submitted here. Expendatures that are not in this plan can not be spent. This plan should include the development cycle, the summer student testing support, the cost of full scale roll out. "
+70,No Spending Period,18,1,$0.00,22d,0d,22d,0%,01/06/2022,30/06/2022,,No,No,18,As Soon As Possible,Medium,151,18
+71,During this period no budget can be spent. This time is spent by accouting. 
+70,Budget Availible to Lab Staff,19,1,$0.00,0d,0d,0d,0%,01/07/2022,01/07/2022,18,No,Yes,19,As Soon As Possible,Medium,148,19
+71,This budgut must be fully spent in 11 months. June has no budget spending during accounting resolution. 

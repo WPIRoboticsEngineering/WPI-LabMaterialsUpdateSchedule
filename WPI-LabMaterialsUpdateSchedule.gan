@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="RBE Hands-on Materials Update Policy" company="WPI Robotics Department" webLink="https://www.wpi.edu/+robotics-engineering" view-date="2021-08-01" view-index="0" gantt-divider-location="484" resource-divider-location="300" version="2.8.11" locale="en_US">
+    <description><![CDATA[* Purpose:
+
+This represents the official procedure for changing materials used in hands-on activities with students in the Robotics Department at WPI. 
+
+* Initial Conditions:
+
+The WPI Annual Planning and Budget Process (APBP) determines budget allocations  to the all of WPI. 
+
+Budgets are allocated for one year and one year only. 
+
+Budget can not be carried over year to year. 
+
+Unspent budget is returned to WPI and less is allocated the following year. 
+
+Operational expenses generally are continued so long as estimates match expenses. 
+
+Capital expenses are highly competitive and often left unfunded.  
+
+* Scheduled Updates Plan:
+
+As program head of robotics, David Cyganski put together a plan for continuing support for the Robotics hands-on activities materials. In his decades of experience with the WPI APBP he realized that if capital expenses are refreshed on a schedule then continuing support from WPI operational budget can be used.  He worked up the 11 year cycle of lab updates as a result. 
+
+The cycle is as follows:
+
+Year one: Update hardware for 3001(Five year operation, 10 class offerings)
+Year two: Update hardware for 3002(Five year operation, 10 class offerings)
+Year three: Update hardware for 2002(Five year operation, 10 class offerings)
+Year four: Update hardware for 2001(Five year operation, 10 class offerings)
+Year five: Update hardware for 1001(Five year operation, 20 class offerings, last in the macro cycle for labs)
+Year six: Update hardware for 3001(Six year operation, 12 class offerings)
+Year seven: Update hardware for 3002(Six year operation, 12 class offerings)
+Year eight: Update hardware for 2002(Six year operation, 12 class offerings)
+Year nine: Update hardware for 2001(Six year operation, 12 class offerings)
+Year ten: Update hardware for 1001(Six year operation, 24 class offerings)
+Year eleven: Update bench-top test equipment (Eleven year operation)
+
+The goal is to go in reverse order so that the new topics at the top that need back-filling of new objectives in lower classes can be added to those classes in turn.  The cycle of labs turns over twice, then the bench top equipment is updated. 
+
+Material and tools retired from previous cycles of the hands-on system can be made available to students for MQP work, can be allocated to graduate labs for use in research, or allocated for use in graduate classes adding hardware component to graduate studies.
+
+]]></description>
+    <view zooming-state="default:11" id="gantt-chart">
+        <field id="tpd3" name="Name" width="340" order="0"/>
+        <field id="tpd4" name="Begin date" width="80" order="1"/>
+        <field id="tpd5" name="End date" width="60" order="2"/>
+        <option id="color.recent"><![CDATA[#00ff00]]></option>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Name" width="176" order="0"/>
+        <field id="1" name="Default role" width="120" order="1"/>
+    </view>
+    <!-- -->
+    <calendars base-id="us.federal">
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+        <date year="" month="1" date="1" type="HOLIDAY"><![CDATA[New Years Day]]></date>
+        <date year="" month="2" date="2" type="NEUTRAL"><![CDATA[Groundhog Day]]></date>
+        <date year="" month="7" date="4" type="HOLIDAY"><![CDATA[Independence Day]]></date>
+        <date year="" month="11" date="11" type="HOLIDAY"><![CDATA[Veterans Day]]></date>
+        <date year="" month="12" date="25" type="HOLIDAY"><![CDATA[Christmas Day]]></date>
+        <date year="2008" month="1" date="21" type="HOLIDAY"><![CDATA[Martin Luther King Day]]></date>
+        <date year="2008" month="2" date="18" type="HOLIDAY"><![CDATA[Presidents Day]]></date>
+        <date year="2008" month="5" date="26" type="HOLIDAY"><![CDATA[Memorial Day]]></date>
+        <date year="2008" month="9" date="1" type="HOLIDAY"><![CDATA[Labor Day]]></date>
+        <date year="2008" month="10" date="13" type="HOLIDAY"><![CDATA[Columbus Day]]></date>
+        <date year="2008" month="11" date="27" type="HOLIDAY"><![CDATA[Thanksgiving]]></date>
+        <date year="2008" month="11" date="28" type="NEUTRAL"><![CDATA[Day after Thanksgiving]]></date>
+        <date year="2009" month="1" date="19" type="HOLIDAY"><![CDATA[Martin Luther King Day]]></date>
+        <date year="2009" month="2" date="16" type="HOLIDAY"><![CDATA[Presidents Day]]></date>
+        <date year="2009" month="5" date="25" type="HOLIDAY"><![CDATA[Memorial Day]]></date>
+        <date year="2009" month="7" date="3" type="HOLIDAY"><![CDATA[Independence Day]]></date>
+        <date year="2009" month="9" date="7" type="HOLIDAY"><![CDATA[Labor Day]]></date>
+        <date year="2009" month="10" date="12" type="HOLIDAY"><![CDATA[Columbus Day]]></date>
+        <date year="2009" month="11" date="26" type="HOLIDAY"><![CDATA[Thanksgiving]]></date>
+        <date year="2009" month="11" date="27" type="NEUTRAL"><![CDATA[Day after Thanksgiving]]></date>
+        <date year="2010" month="1" date="18" type="HOLIDAY"><![CDATA[Martin Luther King Day]]></date>
+        <date year="2010" month="2" date="15" type="HOLIDAY"><![CDATA[Presidents Day]]></date>
+        <date year="2010" month="5" date="9" type="NEUTRAL"><![CDATA[Mothers Day]]></date>
+        <date year="2010" month="5" date="31" type="HOLIDAY"><![CDATA[Memorial Day]]></date>
+        <date year="2010" month="7" date="5" type="HOLIDAY"><![CDATA[Independence Day]]></date>
+        <date year="2010" month="9" date="6" type="HOLIDAY"><![CDATA[Labor Day]]></date>
+        <date year="2010" month="10" date="11" type="HOLIDAY"><![CDATA[Columbus Day]]></date>
+        <date year="2010" month="11" date="25" type="HOLIDAY"><![CDATA[Thanksgiving]]></date>
+        <date year="2010" month="11" date="26" type="NEUTRAL"><![CDATA[Day after Thanksgiving]]></date>
+        <date year="2010" month="12" date="24" type="HOLIDAY"><![CDATA[Christmas Day (in lieu)]]></date>
+        <date year="2010" month="12" date="31" type="HOLIDAY"><![CDATA[New Years Day (in lieu)]]></date>
+        <date year="2011" month="1" date="17" type="HOLIDAY"><![CDATA[Martin Luther King Day]]></date>
+        <date year="2011" month="2" date="21" type="HOLIDAY"><![CDATA[Presidents Day]]></date>
+        <date year="2011" month="4" date="15" type="NEUTRAL"><![CDATA[Emancipation Day (Regional)]]></date>
+        <date year="2011" month="5" date="8" type="NEUTRAL"><![CDATA[Mothers Day]]></date>
+        <date year="2011" month="5" date="30" type="HOLIDAY"><![CDATA[Memorial Day]]></date>
+        <date year="2011" month="6" date="19" type="NEUTRAL"><![CDATA[Fathers Day]]></date>
+        <date year="2011" month="9" date="5" type="HOLIDAY"><![CDATA[Labor Day]]></date>
+        <date year="2011" month="10" date="10" type="HOLIDAY"><![CDATA[Columbus Day]]></date>
+        <date year="2011" month="11" date="24" type="HOLIDAY"><![CDATA[Thanksgiving]]></date>
+        <date year="2011" month="11" date="25" type="NEUTRAL"><![CDATA[Day after Thanksgiving]]></date>
+        <date year="2011" month="12" date="26" type="HOLIDAY"><![CDATA[Christmas Holiday]]></date>
+        <date year="2012" month="1" date="2" type="HOLIDAY"><![CDATA[New Years Day (in lieu)]]></date>
+        <date year="2012" month="1" date="16" type="HOLIDAY"><![CDATA[Martin Luther King Day]]></date>
+        <date year="2012" month="2" date="20" type="HOLIDAY"><![CDATA[Presidents Day]]></date>
+        <date year="2012" month="4" date="16" type="NEUTRAL"><![CDATA[Emancipation Day (Regional)]]></date>
+        <date year="2012" month="5" date="13" type="NEUTRAL"><![CDATA[Mothers Day]]></date>
+        <date year="2012" month="5" date="28" type="HOLIDAY"><![CDATA[Memorial Day]]></date>
+        <date year="2012" month="6" date="17" type="NEUTRAL"><![CDATA[Fathers Day]]></date>
+        <date year="2012" month="9" date="3" type="HOLIDAY"><![CDATA[Labor Day]]></date>
+        <date year="2012" month="10" date="8" type="HOLIDAY"><![CDATA[Columbus Day]]></date>
+        <date year="2012" month="11" date="12" type="HOLIDAY"><![CDATA[Veterans Day]]></date>
+        <date year="2012" month="11" date="22" type="HOLIDAY"><![CDATA[Thanksgiving]]></date>
+        <date year="2012" month="11" date="23" type="NEUTRAL"><![CDATA[Day after Thanksgiving]]></date>
+        <date year="2013" month="1" date="21" type="HOLIDAY"><![CDATA[Martin Luther King Day]]></date>
+        <date year="2013" month="2" date="18" type="HOLIDAY"><![CDATA[Presidents Day]]></date>
+        <date year="2013" month="4" date="16" type="NEUTRAL"><![CDATA[Emancipation Day (Regional)]]></date>
+        <date year="2013" month="5" date="12" type="NEUTRAL"><![CDATA[Mothers Day]]></date>
+        <date year="2013" month="5" date="27" type="HOLIDAY"><![CDATA[Memorial Day]]></date>
+        <date year="2013" month="6" date="16" type="NEUTRAL"><![CDATA[Fathers Day]]></date>
+        <date year="2013" month="9" date="2" type="HOLIDAY"><![CDATA[Labor Day]]></date>
+        <date year="2013" month="10" date="14" type="HOLIDAY"><![CDATA[Columbus Day]]></date>
+        <date year="2013" month="11" date="28" type="HOLIDAY"><![CDATA[Thanksgiving]]></date>
+        <date year="2013" month="11" date="29" type="NEUTRAL"><![CDATA[Day after Thanksgiving]]></date>
+        <date year="2014" month="1" date="20" type="HOLIDAY"><![CDATA[Martin Luther King Day]]></date>
+        <date year="2014" month="2" date="17" type="HOLIDAY"><![CDATA[Presidents Day]]></date>
+        <date year="2014" month="4" date="16" type="NEUTRAL"><![CDATA[Emancipation Day (Regional)]]></date>
+        <date year="2014" month="5" date="11" type="NEUTRAL"><![CDATA[Mothers Day]]></date>
+        <date year="2014" month="5" date="26" type="HOLIDAY"><![CDATA[Memorial Day]]></date>
+        <date year="2014" month="6" date="15" type="NEUTRAL"><![CDATA[Fathers Day]]></date>
+        <date year="2014" month="9" date="1" type="HOLIDAY"><![CDATA[Labor Day]]></date>
+        <date year="2014" month="10" date="13" type="HOLIDAY"><![CDATA[Columbus Day]]></date>
+        <date year="2014" month="11" date="27" type="HOLIDAY"><![CDATA[Thanksgiving]]></date>
+        <date year="2014" month="11" date="28" type="NEUTRAL"><![CDATA[Day after Thanksgiving]]></date>
+        <date year="2014" month="12" date="26" type="HOLIDAY"><![CDATA[Day after Christmas]]></date>
+        <date year="2015" month="1" date="19" type="HOLIDAY"><![CDATA[Martin Luther King Day]]></date>
+        <date year="2015" month="2" date="16" type="HOLIDAY"><![CDATA[Presidents Day]]></date>
+        <date year="2015" month="4" date="16" type="NEUTRAL"><![CDATA[Emancipation Day (Regional)]]></date>
+        <date year="2015" month="5" date="10" type="NEUTRAL"><![CDATA[Mothers Day]]></date>
+        <date year="2015" month="5" date="25" type="HOLIDAY"><![CDATA[Memorial Day]]></date>
+        <date year="2015" month="6" date="21" type="NEUTRAL"><![CDATA[Fathers Day]]></date>
+        <date year="2015" month="7" date="3" type="HOLIDAY"><![CDATA[Independence Day (observed)]]></date>
+        <date year="2015" month="9" date="7" type="HOLIDAY"><![CDATA[Labor Day]]></date>
+        <date year="2015" month="10" date="12" type="HOLIDAY"><![CDATA[Columbus Day]]></date>
+        <date year="2015" month="11" date="26" type="HOLIDAY"><![CDATA[Thanksgiving]]></date>
+        <date year="2015" month="11" date="27" type="NEUTRAL"><![CDATA[Day after Thanksgiving]]></date>
+        <date year="2016" month="1" date="18" type="HOLIDAY"><![CDATA[Martin Luther King Day]]></date>
+        <date year="2016" month="2" date="15" type="HOLIDAY"><![CDATA[Presidents Day]]></date>
+        <date year="2016" month="4" date="15" type="NEUTRAL"><![CDATA[Emancipation Day (Regional)]]></date>
+        <date year="2016" month="5" date="8" type="NEUTRAL"><![CDATA[Mothers Day]]></date>
+        <date year="2016" month="5" date="30" type="HOLIDAY"><![CDATA[Memorial Day]]></date>
+        <date year="2016" month="6" date="19" type="NEUTRAL"><![CDATA[Fathers Day]]></date>
+        <date year="2016" month="9" date="5" type="HOLIDAY"><![CDATA[Labor Day]]></date>
+        <date year="2016" month="10" date="10" type="HOLIDAY"><![CDATA[Columbus Day]]></date>
+        <date year="2016" month="11" date="24" type="HOLIDAY"><![CDATA[Thanksgiving]]></date>
+        <date year="2016" month="11" date="25" type="NEUTRAL"><![CDATA[Day after Thanksgiving]]></date>
+        <date year="2016" month="12" date="26" type="HOLIDAY"><![CDATA[Christmas Day (in lieu)]]></date>
+        <date year="2017" month="1" date="2" type="HOLIDAY"><![CDATA[New Years Day (in lieu)]]></date>
+        <date year="2017" month="1" date="16" type="HOLIDAY"><![CDATA[Martin Luther King Day]]></date>
+        <date year="2017" month="2" date="20" type="HOLIDAY"><![CDATA[Presidents' Day]]></date>
+        <date year="2017" month="5" date="14" type="NEUTRAL"><![CDATA[Mother's Day]]></date>
+        <date year="2017" month="5" date="29" type="HOLIDAY"><![CDATA[Memorial Day]]></date>
+        <date year="2017" month="6" date="18" type="NEUTRAL"><![CDATA[Father's Day]]></date>
+        <date year="2017" month="9" date="4" type="HOLIDAY"><![CDATA[Labor Day]]></date>
+        <date year="2017" month="10" date="9" type="HOLIDAY"><![CDATA[Columbus Day]]></date>
+        <date year="2017" month="11" date="10" type="HOLIDAY"><![CDATA[Veterans Day (in lieu)]]></date>
+        <date year="2017" month="11" date="23" type="HOLIDAY"><![CDATA[Thanksgiving]]></date>
+        <date year="2017" month="11" date="24" type="NEUTRAL"><![CDATA[Day after Thanksgiving]]></date>
+        <date year="2018" month="1" date="15" type="HOLIDAY"><![CDATA[Martin Luther King Day]]></date>
+        <date year="2018" month="2" date="19" type="HOLIDAY"><![CDATA[Presidents' Day]]></date>
+        <date year="2018" month="5" date="13" type="NEUTRAL"><![CDATA[Mother's Day]]></date>
+        <date year="2018" month="5" date="28" type="HOLIDAY"><![CDATA[Memorial Day]]></date>
+        <date year="2018" month="6" date="17" type="NEUTRAL"><![CDATA[Father's Day]]></date>
+        <date year="2018" month="9" date="3" type="HOLIDAY"><![CDATA[Labor Day]]></date>
+        <date year="2018" month="10" date="8" type="HOLIDAY"><![CDATA[Columbus Day]]></date>
+        <date year="2018" month="11" date="22" type="HOLIDAY"><![CDATA[Thanksgiving]]></date>
+        <date year="2018" month="11" date="23" type="NEUTRAL"><![CDATA[Day after Thanksgiving]]></date>
+        <date year="2019" month="1" date="21" type="HOLIDAY"><![CDATA[Martin Luther King Day]]></date>
+        <date year="2019" month="2" date="18" type="HOLIDAY"><![CDATA[Presidents' Day]]></date>
+        <date year="2019" month="5" date="12" type="NEUTRAL"><![CDATA[Mother's Day]]></date>
+        <date year="2019" month="5" date="27" type="HOLIDAY"><![CDATA[Memorial Day]]></date>
+        <date year="2019" month="6" date="16" type="NEUTRAL"><![CDATA[Father's Day]]></date>
+        <date year="2019" month="9" date="2" type="HOLIDAY"><![CDATA[Labor Day]]></date>
+        <date year="2019" month="10" date="14" type="HOLIDAY"><![CDATA[Columbus Day]]></date>
+        <date year="2019" month="11" date="28" type="HOLIDAY"><![CDATA[Thanksgiving]]></date>
+        <date year="2019" month="11" date="29" type="NEUTRAL"><![CDATA[Day after Thanksgiving]]></date>
+        <date year="2020" month="1" date="20" type="HOLIDAY"><![CDATA[Martin Luther King Day]]></date>
+        <date year="2020" month="2" date="17" type="HOLIDAY"><![CDATA[Presidents' Day]]></date>
+        <date year="2020" month="5" date="10" type="NEUTRAL"><![CDATA[Mother's Day]]></date>
+        <date year="2020" month="5" date="25" type="HOLIDAY"><![CDATA[Memorial Day]]></date>
+        <date year="2020" month="6" date="21" type="NEUTRAL"><![CDATA[Father's Day]]></date>
+        <date year="2020" month="7" date="3" type="HOLIDAY"><![CDATA[Independence Day (in lieu)]]></date>
+        <date year="2020" month="9" date="7" type="HOLIDAY"><![CDATA[Labor Day]]></date>
+        <date year="2020" month="10" date="12" type="HOLIDAY"><![CDATA[Columbus Day]]></date>
+        <date year="2020" month="11" date="26" type="HOLIDAY"><![CDATA[Thanksgiving]]></date>
+        <date year="2020" month="11" date="27" type="NEUTRAL"><![CDATA[Day after Thanksgiving]]></date>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="54" name="Summer Investigation phase" color="#8cb6ce" meeting="false" start="2021-05-10" duration="115" complete="0" thirdDate="2021-09-01" thirdDate-constraint="0" expand="true">
+            <notes><![CDATA[
+UPC in collaboration with the teaching professors should discuss possible new hands-on activities such as labs and homeworks. These new activities will bring up new objectives that can not be met with existing lab solutions, or are too expensive or are too difficult for students and teaching staff. Discussions should be had with Lab Staff with respect to theoretical possibilities. 
+
+Discussion should also include input form student surveys.
+
+Discussion should include input from the Board of Advisers. ]]></notes>
+            <depend id="0" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="0" name="A-B break Propose new changes" color="#8cb6ce" meeting="true" start="2021-10-18" duration="0" complete="0" thirdDate="2020-11-12" thirdDate-constraint="0" expand="true">
+            <notes><![CDATA[The A-B break scheduled as the official proposal season for new changes. 
+
+Which class is to be updated follows a know cycle. 
+
+5 years (or as many are available) of student outcomes with the previous version of the class should be addressed. 
+
+Advisory Board feedback is expected before proposing a new change. 
+
+Changes should take the form of lab objectives, and homework objectives. ]]></notes>
+            <depend id="4" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="4" name="B term Open Discussion of changes Period" color="#8cb6ce" meeting="false" start="2021-10-18" duration="60" complete="0" thirdDate="2021-09-22" thirdDate-constraint="0" expand="true">
+            <notes><![CDATA[During this period the proposed changes are discussed by the faculty and the issues sent back to UPC. Curriculum issues are highlighted and the petogogical objectives are evaluated. ]]></notes>
+            <depend id="13" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="13" name="Changes Finalized Into Requirements - Passed to R/D" color="#8cb6ce" meeting="true" start="2022-01-11" duration="0" complete="0" thirdDate="2021-08-02" thirdDate-constraint="0" expand="true">
+            <notes><![CDATA[Milestone: Finalize change request
+
+With approval of the faculty, the changes proposed by UPC are passed off to Lab Design Engineers for R/D. 
+
+This unlocks some of the development funds to purchase and produce preliminary parts for evaluation. These parts may or may not make it to the lab test round. If they are not used, they will be availible to students through Odoo.
+
+ This represents new lab and homework objectives. This should be a complete list of the required objectives for hands on learning in the class. 
+
+This should take into account what skills can be assumed from previous classes.
+
+This should  tak into account what practical skills the class needs to provide to classes later in the series. ]]></notes>
+            <depend id="17" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="17" name="C term Convert Requirements to Specifications" color="#8cb6ce" meeting="false" start="2022-01-11" duration="41" complete="0" thirdDate="2021-09-01" thirdDate-constraint="0" expand="true">
+            <notes><![CDATA[Take the Requirements and conver them into parts selection options. 
+Be prepared to discuss the discuss *multiple parts kit options* as specificitions that meet the Requirements. ]]></notes>
+            <depend id="24" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="24" name="Finalize Parts Selection for Development and Testing" color="#8cb6ce" meeting="true" start="2022-03-09" duration="0" complete="0" thirdDate="2021-09-01" thirdDate-constraint="0" expand="true">
+            <notes><![CDATA[Parts are selected for prototyping and testing phases. One set of hardware is selected to be purchased and produced. This set will be used to develop the updated lab and homework material. 
+
+This list is brought to the UPC for approval. This approval unlocks the rest of the development funds to develop the prototypes and test classes. 
+
+The formal list of objectives must be possible with the given solution. 
+
+The changes should represent improvements in possible technology access and aim for the highest possible technological capibility given time and money constraints. 
+
+Open Source/Open Hardware technology is prefered. 
+
+Custom engineering work done by WPI staff is always Open Source. 
+
+Technology chosen must not leak students private data.]]></notes>
+            <depend id="55" type="2" difference="0" hardness="Strong"/>
+            <depend id="88" type="2" difference="0" hardness="Strong"/>
+            <depend id="143" type="3" difference="0" hardness="Rubber"/>
+        </task>
+        <task id="55" name="D Term Development Phase" color="#8cb6ce" meeting="false" start="2022-03-09" duration="40" complete="0" thirdDate="2021-04-01" thirdDate-constraint="0" expand="true">
+            <notes><![CDATA[In this phase the hardware kits for all hands-on activities should be fully built and tested by R/D staff. 
+
+Consideration should be given to how this kit interfaces with existing kits of hardware. 
+
+Tools for working with the hands-on activity are also tested. 
+
+Tool compatibility with Lab PC's must be verified. 
+
+This cycles budget comes from the previous years APBP.]]></notes>
+        </task>
+        <task id="88" name="D term Lab , Homework, Documentation Documents Updated" color="#8cb6ce" meeting="false" start="2022-03-09" duration="48" complete="0" thirdDate="2021-07-01" thirdDate-constraint="0" expand="true">
+            <notes><![CDATA[Example lab procedures that meet objectives will be drafted during this phase. Collaboration between the lab staff and the professors that will be teaching this class is desirable. Lab R/D staff may draft procedures if professor attention is scarce. 
+
+This should take place between the end of D term and the start of E1]]></notes>
+            <depend id="89" type="2" difference="0" hardness="Strong"/>
+            <depend id="94" type="2" difference="0" hardness="Strong"/>
+            <depend id="103" type="2" difference="0" hardness="Rubber"/>
+        </task>
+        <task id="89" name="E1 Update all of the lecture slides and record videos" color="#8cb6ce" meeting="false" start="2022-05-16" duration="34" complete="0" thirdDate="2021-07-01" thirdDate-constraint="0" expand="true">
+            <notes><![CDATA[Any lecture slides for this class should be updated. The student workers will be using the slides as the source of material for performing the new labs. If the professor wishes to give test lectures the students will be available for that as well. This would also be the period that any new tutorial videos should be recorded.  Any live lectures given to student workers can be recorded and used as the lectures for the A term ISP to lighten the load of the teaching professor. ]]></notes>
+            <depend id="103" type="2" difference="0" hardness="Rubber"/>
+        </task>
+        <task id="94" name="E1 Test Class Run With Paid Student Workers" color="#8cb6ce" meeting="false" start="2022-05-16" duration="34" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
+            <notes><![CDATA[During E1 a test class with the new labs is run through. The students will have access to the new materials and have to complete the labs and homeworks. Any additional material needed will be highlighted by these student test. By running test classes with paid workers instead of paying students we ensure that no students grade or education outcome is influenced by the unknown-unknowns of the first drafts. ]]></notes>
+            <depend id="96" type="2" difference="0" hardness="Rubber"/>
+        </task>
+        <task id="96" name="E2 Feedback from Test Class Incorporated and Re-Run" color="#8cb6ce" meeting="false" start="2022-07-11" duration="25" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
+            <notes><![CDATA[During E2 we will re-incorporate and restructure the class from E1. This restructured class will be run through by the same students again.  This avoids any errors in the corrections or restructuring effecting student outcomes. 
+
+The second run through the labs produce a set of known-good solution examples to be provided to graders and SA's. 
+]]></notes>
+        </task>
+        <task id="103" name="Milestone A term Start All Documents updated" color="#8cb6ce" meeting="true" start="2022-08-25" duration="0" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
+            <notes><![CDATA[All Documents updated
+
+Documents for new labs, homeworks and instructions are all updated, tested and ready for use with a test class. 
+
+This milestone triggers the bulk purchase of new components in second semester roll out. Production orders for new hardware placed now. New device production should be sent out to the in house production as much as possible. ]]></notes>
+            <depend id="110" type="2" difference="0" hardness="Strong"/>
+            <depend id="160" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="110" name="A term Test ISP For Credit" color="#8cb6ce" meeting="false" start="2022-08-25" duration="37" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
+            <notes><![CDATA[
+An ISP  is run for 3 students that will cross-count for the class that is being updated. 
+
+Students should have access to updated lecture slides and new tutorial videos.  Recorded lectures from the summer session can be used and supplemented by live instruction as the professor sees fit. 
+]]></notes>
+            <depend id="114" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="114" name="B term Feedback From Experimental Class Incorporated" color="#8cb6ce" meeting="false" start="2022-10-17" duration="44" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
+            <notes><![CDATA[Any changes in documentation or teaching materials are re-incorporated and finalized into the final version of the materials. 
+]]></notes>
+            <depend id="118" type="2" difference="0" hardness="Rubber"/>
+        </task>
+        <task id="118" name="Finalize Course Material" color="#8cb6ce" meeting="true" start="2023-01-06" duration="0" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
+            <notes><![CDATA[Milestone
+
+Final version of lecture slides.
+
+Final version of lab documents.
+
+Final version  of lab kit contents. 
+
+Export Canvas state.
+
+Known good solutions are updated with the Experimental course solutions. 
+
+Kit of all this material is presented to UPC for archival and for use with by any future teaching professors. ]]></notes>
+            <depend id="120" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="160" name="Production TIme" color="#8cb6ce" meeting="false" start="2022-08-25" duration="60" complete="0" thirdDate="2021-08-02" thirdDate-constraint="0" expand="true">
+            <depend id="120" type="2" difference="0" hardness="Rubber"/>
+        </task>
+        <task id="120" name="Second Semester Roll Out" color="#8cb6ce" meeting="false" start="2023-01-06" duration="84" complete="0" thirdDate="2022-05-02" thirdDate-constraint="0" expand="true">
+            <notes><![CDATA[The second semester version of the class in question will receive the full class update. 
+
+For 1001, 2001 and 3001 this means C term roll out.
+
+For 2002 and 3002 that means a D term roll out.]]></notes>
+        </task>
+        <task id="143" name="Budget Plan Due APBP For Next Year" color="#00ff00" meeting="true" start="2022-03-15" duration="0" complete="0" thirdDate="2021-07-01" thirdDate-constraint="0" expand="true">
+            <notes><![CDATA[The plan for how we intend to spend any money spent next year has to be submitted here. 
+
+Expendatures that are not in this plan can not be spent. 
+
+This plan should include the development cycle, the summer student testing support, the cost of full scale roll out. ]]></notes>
+        </task>
+        <task id="151" name="No Spending Period" color="#00ff00" meeting="false" start="2022-06-01" duration="22" complete="0" thirdDate="2021-08-02" thirdDate-constraint="0" expand="true">
+            <notes><![CDATA[During this period no budget can be spent. This time is spent by accouting. ]]></notes>
+            <depend id="148" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="148" name="Budget Availible to Lab Staff" color="#00ff00" meeting="true" start="2022-07-01" duration="0" complete="0" thirdDate="2021-08-02" thirdDate-constraint="0" expand="true">
+            <notes><![CDATA[This budgut must be fully spent in 11 months. 
+
+June has no budget spending during accounting resolution. ]]></notes>
+            <depend id="103" type="2" difference="0" hardness="Rubber"/>
+        </task>
+    </tasks>
+    <resources>
+        <resource id="0" name="Lab Staff Engineers" function="1" contacts="" phone=""/>
+        <resource id="1" name="UPC" function="3" contacts="" phone=""/>
+        <resource id="2" name="Professors of Class Being Updated" function="3" contacts="" phone=""/>
+        <resource id="3" name="All Faculty" function="3" contacts="" phone=""/>
+    </resources>
+    <allocations>
+        <allocation task-id="13" resource-id="0" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="17" resource-id="0" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="24" resource-id="0" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="54" resource-id="0" function="1" responsible="false" load="100.0"/>
+        <allocation task-id="55" resource-id="0" function="1" responsible="true" load="100.0"/>
+        <allocation task-id="114" resource-id="0" function="1" responsible="true" load="50.0"/>
+        <allocation task-id="110" resource-id="0" function="1" responsible="true" load="50.0"/>
+        <allocation task-id="96" resource-id="0" function="1" responsible="true" load="75.0"/>
+        <allocation task-id="94" resource-id="0" function="1" responsible="true" load="50.0"/>
+        <allocation task-id="160" resource-id="0" function="1" responsible="true" load="100.0"/>
+        <allocation task-id="0" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="13" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="24" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="54" resource-id="1" function="2" responsible="true" load="100.0"/>
+        <allocation task-id="118" resource-id="1" function="3" responsible="true" load="100.0"/>
+        <allocation task-id="54" resource-id="2" function="3" responsible="false" load="100.0"/>
+        <allocation task-id="88" resource-id="2" function="3" responsible="true" load="50.0"/>
+        <allocation task-id="89" resource-id="2" function="3" responsible="true" load="50.0"/>
+        <allocation task-id="120" resource-id="2" function="3" responsible="true" load="100.0"/>
+        <allocation task-id="114" resource-id="2" function="3" responsible="false" load="50.0"/>
+        <allocation task-id="110" resource-id="2" function="3" responsible="true" load="50.0"/>
+        <allocation task-id="96" resource-id="2" function="3" responsible="false" load="25.0"/>
+        <allocation task-id="94" resource-id="2" function="3" responsible="false" load="50.0"/>
+        <allocation task-id="4" resource-id="3" function="4" responsible="true" load="100.0"/>
+    </allocations>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+    <roles>
+        <role id="1" name="Lab Staff R/D Engineering team"/>
+        <role id="2" name="Undergraduate Program Committee"/>
+        <role id="3" name="Teaching Professor"/>
+        <role id="4" name="Full Faculty"/>
+    </roles>
+</project>
