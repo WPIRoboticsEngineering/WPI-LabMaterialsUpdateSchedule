@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="RBE Hands-on Materials Update Policy" company="WPI Robotics Department" webLink="https://www.wpi.edu/+robotics-engineering" view-date="2021-05-01" view-index="0" gantt-divider-location="429" resource-divider-location="554" version="2.8.11" locale="en_US">
+<?xml version="1.0" encoding="UTF-8"?><project name="RBE Hands-on Materials Update Policy" company="WPI Robotics Department" webLink="https://www.wpi.edu/+robotics-engineering" view-date="2021-05-01" view-index="0" gantt-divider-location="429" resource-divider-location="454" version="2.8.11" locale="en_US">
     <description><![CDATA[* Purpose:
 
-This represents the official procedure for changing materials used in hands-on activities with students in the Robotics Department at WPI. 
+This represents the official procedure for changing materials used for hands-on activities in the Robotics Engineering Department at WPI. 
 
 * Initial Conditions:
 
@@ -35,6 +35,9 @@ Year nine: Update hardware for 2001(Six year operation, 12 class offerings)
 Year ten: Update hardware for 1001(Six year operation, 24 class offerings)
 Year eleven: Update bench-top test equipment (Eleven year operation)
 
+During year 11 a full curriculum outcomes review is performed. Updates from the past 2 micro cycles are evaluated for student outcomes. Additional outcomes are cataloged and archived for ABET reviews to fulfil continuing education requirements. This update process also addressed ABET continuing improvement requirements. 
+
+
 The goal is to go in reverse order so that the new topics at the top that need back-filling of new objectives in lower classes can be added to those classes in turn.  The cycle of labs turns over twice, then the bench top equipment is updated. 
 
 Material and tools retired from previous cycles of the hands-on system can be made available to students for MQP work, can be allocated to graduate labs for use in research, or allocated for use in graduate classes adding hardware component to graduate studies.
@@ -48,8 +51,8 @@ Material and tools retired from previous cycles of the hands-on system can be ma
         <option id="color.recent"><![CDATA[#9933ff #ff99ff #00ff00]]></option>
     </view>
     <view id="resource-table">
-        <field id="0" name="Name" width="468" order="0"/>
-        <field id="1" name="Default role" width="82" order="1"/>
+        <field id="0" name="Name" width="418" order="0"/>
+        <field id="1" name="Default role" width="32" order="1"/>
     </view>
     <!-- -->
     <calendars base-id="us.federal">
