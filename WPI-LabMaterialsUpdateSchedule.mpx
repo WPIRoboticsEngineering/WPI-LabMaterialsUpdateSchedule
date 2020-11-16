@@ -158,6 +158,7 @@ MPX,Microsoft Project for Windows,4.0,ANSI
 75,4,0.5,100d,,0d,,,,,29/12/2021,17/05/2022,,3
 76,,0,0,NA,NA
 70,Custom Electronics Development Period,10,1,$0.00,100d,0d,100d,0%,17/12/2021,05/05/2022,7,No,No,10,As Soon As Possible,Medium,311,10
+71,Convert electrical prototypes from development phase into any applicible custom PCB's. By the end of the is period a working PCB dessign should be finished and a set of hand populated working prototypes made availible for the E1 test class. 
 75,1,0.5,100d,,0d,,,,,17/12/2021,05/05/2022,,1
 76,,0,0,NA,NA
 70,E1 Test Class Run With Paid Student Workers,11,1,$0.00,34d,0d,34d,0%,16/05/2022,30/06/2022,"8,10",No,No,11,As Soon As Possible,Medium,94,11

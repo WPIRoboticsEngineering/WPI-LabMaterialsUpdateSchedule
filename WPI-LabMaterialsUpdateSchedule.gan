@@ -298,6 +298,9 @@ This should take place between the end of D term and the start of E1]]></notes>
             <depend id="103" type="2" difference="0" hardness="Rubber"/>
         </task>
         <task id="311" name="Custom Electronics Development Period" color="#8cb6ce" meeting="false" start="2021-12-17" duration="100" complete="0" thirdDate="2021-05-03" thirdDate-constraint="0" expand="true">
+            <notes><![CDATA[Convert electrical prototypes from development phase into any applicible custom PCB's. 
+
+By the end of the is period a working PCB dessign should be finished and a set of hand populated working prototypes made availible for the E1 test class. ]]></notes>
             <depend id="94" type="2" difference="0" hardness="Rubber"/>
         </task>
         <task id="94" name="E1 Test Class Run With Paid Student Workers" color="#8cb6ce" meeting="false" start="2022-05-16" duration="34" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
