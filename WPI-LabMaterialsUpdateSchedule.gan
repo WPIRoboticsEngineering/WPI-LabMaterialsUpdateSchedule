@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="RBE Hands-on Materials Update Policy" company="WPI Robotics Department" webLink="https://www.wpi.edu/+robotics-engineering" view-date="2021-07-01" view-index="0" gantt-divider-location="484" resource-divider-location="300" version="2.8.11" locale="en_US">
+<?xml version="1.0" encoding="UTF-8"?><project name="RBE Hands-on Materials Update Policy" company="WPI Robotics Department" webLink="https://www.wpi.edu/+robotics-engineering" view-date="2021-08-01" view-index="0" gantt-divider-location="484" resource-divider-location="300" version="2.8.11" locale="en_US">
     <description><![CDATA[* Purpose:
 
 This represents the official procedure for changing materials used in hands-on activities with students in the Robotics Department at WPI. 
@@ -210,7 +210,7 @@ Material and tools retired from previous cycles of the hands-on system can be ma
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="54" name="Summer Investigation phase" color="#8cb6ce" meeting="false" start="2021-05-10" duration="115" complete="0" thirdDate="2021-09-01" thirdDate-constraint="0" expand="true">
+        <task id="54" name="Investigation phase" color="#8cb6ce" meeting="false" start="2021-08-25" duration="38" complete="0" thirdDate="2021-09-01" thirdDate-constraint="0" expand="true">
             <notes><![CDATA[
 UPC in collaboration with the teaching professors should discuss possible new hands-on activities such as labs and homeworks. These new activities will bring up new objectives that can not be met with existing lab solutions, or are too expensive or are too difficult for students and teaching staff. Discussions should be had with Lab Staff with respect to theoretical possibilities. 
 
@@ -305,7 +305,7 @@ This should take place between the end of D term and the start of E1]]></notes>
 The second run through the labs produce a set of known-good solution examples to be provided to graders and SA's. 
 ]]></notes>
         </task>
-        <task id="103" name="Milestone A term Start All Documents updated" color="#8cb6ce" meeting="true" start="2022-08-25" duration="0" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
+        <task id="103" name="Milestone A term Start All Documents updated" color="#8cb6ce" meeting="true" start="2022-07-01" duration="0" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
             <notes><![CDATA[All Documents updated
 
 Documents for new labs, homeworks and instructions are all updated, tested and ready for use with a test class. 
@@ -314,7 +314,7 @@ This milestone triggers the bulk purchase of new components in second semester r
             <depend id="110" type="2" difference="0" hardness="Strong"/>
             <depend id="160" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="110" name="A term Test ISP For Credit" color="#8cb6ce" meeting="false" start="2022-08-25" duration="37" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
+        <task id="110" name="A term Test ISP For Credit" color="#8cb6ce" meeting="false" start="2022-07-01" duration="37" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
             <notes><![CDATA[
 An ISP  is run for 3 students that will cross-count for the class that is being updated. 
 
@@ -322,7 +322,7 @@ Students should have access to updated lecture slides and new tutorial videos.  
 ]]></notes>
             <depend id="114" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="114" name="B term Feedback From Experimental Class Incorporated" color="#8cb6ce" meeting="false" start="2022-10-17" duration="44" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
+        <task id="114" name="B term Feedback From Experimental Class Incorporated" color="#8cb6ce" meeting="false" start="2022-08-24" duration="44" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
             <notes><![CDATA[Any changes in documentation or teaching materials are re-incorporated and finalized into the final version of the materials. 
 ]]></notes>
             <depend id="118" type="2" difference="0" hardness="Rubber"/>
@@ -343,7 +343,7 @@ Known good solutions are updated with the Experimental course solutions.
 Kit of all this material is presented to UPC for archival and for use with by any future teaching professors. ]]></notes>
             <depend id="120" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="160" name="Production TIme" color="#8cb6ce" meeting="false" start="2022-08-25" duration="60" complete="0" thirdDate="2021-08-02" thirdDate-constraint="0" expand="true">
+        <task id="160" name="Production TIme" color="#8cb6ce" meeting="false" start="2022-07-01" duration="60" complete="0" thirdDate="2021-08-02" thirdDate-constraint="0" expand="true">
             <depend id="120" type="2" difference="0" hardness="Rubber"/>
         </task>
         <task id="120" name="Second Semester Roll Out" color="#8cb6ce" meeting="false" start="2022-12-19" duration="84" complete="0" thirdDate="2022-05-02" thirdDate-constraint="0" expand="true">
@@ -377,6 +377,7 @@ An ISP  is run for 3 students that will cross-count for the class that is being 
 Students should have access to updated lecture slides and new tutorial videos.  Recorded lectures from the summer session can be used and supplemented by live instruction as the professor sees fit. 
 ]]></notes>
             <depend id="197" type="2" difference="0" hardness="Strong"/>
+            <depend id="207" type="1" difference="0" hardness="Strong"/>
         </task>
         <task id="197" name="Previous Years B term Feedback From Experimental Class Incorporated" color="#8cb6ce" meeting="false" start="2021-10-15" duration="44" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
             <notes><![CDATA[Any changes in documentation or teaching materials are re-incorporated and finalized into the final version of the materials. 
@@ -384,6 +385,84 @@ Students should have access to updated lecture slides and new tutorial videos.  
             <depend id="191" type="2" difference="0" hardness="Rubber"/>
         </task>
         <task id="191" name="Previous Years Update Rollout" color="#8cb6ce" meeting="false" start="2022-01-11" duration="86" complete="0" thirdDate="2021-08-02" thirdDate-constraint="0" expand="true"/>
+        <task id="207" name="Previous Years Production TIme" color="#8cb6ce" meeting="false" start="2021-08-25" duration="60" complete="0" thirdDate="2021-08-02" thirdDate-constraint="0" expand="true" cost-manual-value="0.0" cost-calculated="true"/>
+        <task id="213" name="Next Year Investigation phase" color="#8cb6ce" meeting="false" start="2022-08-25" duration="37" complete="0" thirdDate="2021-09-01" thirdDate-constraint="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
+            <notes><![CDATA[
+UPC in collaboration with the teaching professors should discuss possible new hands-on activities such as labs and homeworks. These new activities will bring up new objectives that can not be met with existing lab solutions, or are too expensive or are too difficult for students and teaching staff. Discussions should be had with Lab Staff with respect to theoretical possibilities. 
+
+Discussion should also include input form student surveys.
+
+Discussion should include input from the Board of Advisers. ]]></notes>
+            <depend id="215" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="215" name="Next Year A-B break Propose new changes" color="#8cb6ce" meeting="true" start="2022-10-17" duration="0" complete="0" thirdDate="2020-11-12" thirdDate-constraint="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
+            <notes><![CDATA[The A-B break scheduled as the official proposal season for new changes. 
+
+Which class is to be updated follows a know cycle. 
+
+5 years (or as many are available) of student outcomes with the previous version of the class should be addressed. 
+
+Advisory Board feedback is expected before proposing a new change. 
+
+Changes should take the form of lab objectives, and homework objectives. ]]></notes>
+            <depend id="217" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="217" name="Next Year B term Open Discussion of changes Period" color="#8cb6ce" meeting="false" start="2022-10-17" duration="60" complete="0" thirdDate="2021-09-22" thirdDate-constraint="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
+            <notes><![CDATA[During this period the proposed changes are discussed by the faculty and the issues sent back to UPC. Curriculum issues are highlighted and the petogogical objectives are evaluated. ]]></notes>
+            <depend id="219" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="219" name="Next Year Changes Finalized Into Requirements - Passed to R/D" color="#8cb6ce" meeting="true" start="2023-01-10" duration="0" complete="0" thirdDate="2021-08-02" thirdDate-constraint="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
+            <notes><![CDATA[Milestone: Finalize change request
+
+With approval of the faculty, the changes proposed by UPC are passed off to Lab Design Engineers for R/D. 
+
+This unlocks some of the development funds to purchase and produce preliminary parts for evaluation. These parts may or may not make it to the lab test round. If they are not used, they will be availible to students through Odoo.
+
+ This represents new lab and homework objectives. This should be a complete list of the required objectives for hands on learning in the class. 
+
+This should take into account what skills can be assumed from previous classes.
+
+This should  tak into account what practical skills the class needs to provide to classes later in the series. ]]></notes>
+            <depend id="221" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="221" name="Next Year C term Convert Requirements to Specifications" color="#8cb6ce" meeting="false" start="2023-01-10" duration="41" complete="0" thirdDate="2021-09-01" thirdDate-constraint="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
+            <notes><![CDATA[Take the Requirements and conver them into parts selection options. 
+Be prepared to discuss the discuss *multiple parts kit options* as specificitions that meet the Requirements. ]]></notes>
+            <depend id="223" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="223" name="Next Year Finalize Parts Selection for Development and Testing" color="#8cb6ce" meeting="true" start="2023-03-08" duration="0" complete="0" thirdDate="2021-09-01" thirdDate-constraint="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
+            <notes><![CDATA[Parts are selected for prototyping and testing phases. One set of hardware is selected to be purchased and produced. This set will be used to develop the updated lab and homework material. 
+
+This list is brought to the UPC for approval. This approval unlocks the rest of the development funds to develop the prototypes and test classes. 
+
+The formal list of objectives must be possible with the given solution. 
+
+The changes should represent improvements in possible technology access and aim for the highest possible technological capibility given time and money constraints. 
+
+Open Source/Open Hardware technology is prefered. 
+
+Custom engineering work done by WPI staff is always Open Source. 
+
+Technology chosen must not leak students private data.]]></notes>
+            <depend id="225" type="2" difference="0" hardness="Strong"/>
+            <depend id="227" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="225" name="Next Year D Term Development Phase" color="#8cb6ce" meeting="false" start="2023-03-08" duration="40" complete="0" thirdDate="2021-04-01" thirdDate-constraint="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
+            <notes><![CDATA[In this phase the hardware kits for all hands-on activities should be fully built and tested by R/D staff. 
+
+Consideration should be given to how this kit interfaces with existing kits of hardware. 
+
+Tools for working with the hands-on activity are also tested. 
+
+Tool compatibility with Lab PC's must be verified. 
+
+This cycles budget comes from the previous years APBP.]]></notes>
+        </task>
+        <task id="227" name="Next Year D term Lab , Homework, Documentation Documents Updated" color="#8cb6ce" meeting="false" start="2023-03-08" duration="48" complete="0" thirdDate="2021-07-01" thirdDate-constraint="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
+            <notes><![CDATA[Example lab procedures that meet objectives will be drafted during this phase. Collaboration between the lab staff and the professors that will be teaching this class is desirable. Lab R/D staff may draft procedures if professor attention is scarce. 
+
+This should take place between the end of D term and the start of E1]]></notes>
+        </task>
     </tasks>
     <resources>
         <resource id="0" name="Lab Staff Engineers" function="1" contacts="" phone=""/>
@@ -405,11 +484,21 @@ Students should have access to updated lecture slides and new tutorial videos.  
         <allocation task-id="191" resource-id="0" function="1" responsible="true" load="50.0"/>
         <allocation task-id="195" resource-id="0" function="1" responsible="true" load="50.0"/>
         <allocation task-id="197" resource-id="0" function="1" responsible="true" load="50.0"/>
+        <allocation task-id="207" resource-id="0" function="1" responsible="true" load="50.0"/>
+        <allocation task-id="213" resource-id="0" function="1" responsible="false" load="50.0"/>
+        <allocation task-id="219" resource-id="0" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="221" resource-id="0" function="Default:0" responsible="true" load="50.0"/>
+        <allocation task-id="223" resource-id="0" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="225" resource-id="0" function="1" responsible="true" load="50.0"/>
         <allocation task-id="0" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
         <allocation task-id="13" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
         <allocation task-id="24" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
         <allocation task-id="54" resource-id="1" function="2" responsible="true" load="50.0"/>
         <allocation task-id="118" resource-id="1" function="3" responsible="true" load="100.0"/>
+        <allocation task-id="213" resource-id="1" function="2" responsible="true" load="50.0"/>
+        <allocation task-id="215" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="219" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="223" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
         <allocation task-id="54" resource-id="2" function="3" responsible="false" load="25.0"/>
         <allocation task-id="88" resource-id="2" function="3" responsible="true" load="50.0"/>
         <allocation task-id="89" resource-id="2" function="3" responsible="true" load="50.0"/>
@@ -420,7 +509,10 @@ Students should have access to updated lecture slides and new tutorial videos.  
         <allocation task-id="94" resource-id="2" function="3" responsible="false" load="50.0"/>
         <allocation task-id="195" resource-id="2" function="3" responsible="true" load="50.0"/>
         <allocation task-id="197" resource-id="2" function="3" responsible="false" load="50.0"/>
+        <allocation task-id="213" resource-id="2" function="3" responsible="false" load="25.0"/>
+        <allocation task-id="227" resource-id="2" function="3" responsible="true" load="50.0"/>
         <allocation task-id="4" resource-id="3" function="4" responsible="true" load="100.0"/>
+        <allocation task-id="217" resource-id="3" function="4" responsible="true" load="100.0"/>
     </allocations>
     <vacations/>
     <previous/>
