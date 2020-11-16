@@ -462,7 +462,7 @@ Tool compatibility with Lab PC's must be verified.
 
 This cycles budget comes from the previous years APBP.]]></notes>
         </task>
-        <task id="227" name="Next Year Lab , Homework, Documentation Documents Updated" color="#8cb6ce" meeting="false" start="2022-10-26" duration="100" complete="0" thirdDate="2021-07-01" thirdDate-constraint="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
+        <task id="227" name="Next Year Lab , Homework, Documentation Documents Updated" color="#8cb6ce" meeting="false" start="2022-10-26" duration="48" complete="0" thirdDate="2021-07-01" thirdDate-constraint="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
             <notes><![CDATA[Example lab procedures that meet objectives will be drafted during this phase. Collaboration between the lab staff and the professors that will be teaching this class is desirable. Lab R/D staff may draft procedures if professor attention is scarce. 
 
 This should take place between the end of D term and the start of E1]]></notes>

@@ -119,11 +119,11 @@ MPX,Microsoft Project for Windows,4.0,ANSI
 76,,0,0,NA,NA
 75,3,0.25,17d,,0d,,,,,10/05/2021,01/06/2021,,3
 76,,0,0,NA,NA
-70,A-B break Propose new changes,2,1,$0.00,0d,0d,0d,0%,02/06/2021,02/06/2021,1,No,Yes,2,As Soon As Possible,Medium,228,2
+70,Propose new changes,2,1,$0.00,0d,0d,0d,0%,02/06/2021,02/06/2021,1,No,Yes,2,As Soon As Possible,Medium,228,2
 71,"The A-B break scheduled as the official proposal season for new changes. Which class is to be updated follows a know cycle. 5 years (or as many are available) of student outcomes with the previous version of the class should be addressed. Advisory Board feedback is expected before proposing a new change. Changes should take the form of lab objectives, and homework objectives. "
 75,2,1,0d,,0d,,,,,02/06/2021,02/06/2021,,2
 76,,0,0,NA,NA
-70,B term Open Discussion of changes Period,3,1,$0.00,60d,0d,60d,0%,02/06/2021,24/08/2021,2,No,No,3,As Soon As Possible,Medium,4,3
+70,Open Discussion of changes Period,3,1,$0.00,60d,0d,60d,0%,02/06/2021,24/08/2021,2,No,No,3,As Soon As Possible,Medium,4,3
 71,During this period the proposed changes are discussed by the faculty and the issues sent back to UPC. Curriculum issues are highlighted and the petogogical objectives are evaluated. 
 75,4,1,60d,,0d,,,,,02/06/2021,24/08/2021,,4
 76,,0,0,NA,NA
@@ -133,7 +133,7 @@ MPX,Microsoft Project for Windows,4.0,ANSI
 76,,0,0,NA,NA
 75,2,1,0d,,0d,,,,,25/08/2021,25/08/2021,,2
 76,,0,0,NA,NA
-70,C term Convert Requirements to Specifications,5,1,$0.00,41d,0d,41d,0%,25/08/2021,20/10/2021,4,No,No,5,As Soon As Possible,Medium,17,5
+70,Convert Requirements to Specifications,5,1,$0.00,41d,0d,41d,0%,25/08/2021,20/10/2021,4,No,No,5,As Soon As Possible,Medium,17,5
 71,Take the Requirements and conver them into parts selection options. Be prepared to discuss the discuss *multiple parts kit options* as specificitions that meet the Requirements. 
 75,1,0.5,41d,,0d,,,,,25/08/2021,20/10/2021,,1
 76,,0,0,NA,NA
@@ -143,17 +143,17 @@ MPX,Microsoft Project for Windows,4.0,ANSI
 76,,0,0,NA,NA
 75,2,1,0d,,0d,,,,,21/10/2021,21/10/2021,,2
 76,,0,0,NA,NA
-70,D Term Development Phase,7,1,$0.00,40d,0d,40d,0%,21/10/2021,16/12/2021,6,No,No,7,As Soon As Possible,Medium,55,7
+70,Development Phase,7,1,$0.00,40d,0d,40d,0%,21/10/2021,16/12/2021,6,No,No,7,As Soon As Possible,Medium,55,7
 71,In this phase the hardware kits for all hands-on activities should be fully built and tested by R/D staff. Consideration should be given to how this kit interfaces with existing kits of hardware. Tools for working with the hands-on activity are also tested. Tool compatibility with Lab PC's must be verified. This cycles budget comes from the previous years APBP.
 75,1,0.5,40d,,0d,,,,,21/10/2021,16/12/2021,,1
 76,,0,0,NA,NA
-70,"D term Lab , Homework, Documentation Documents Updated",8,1,$0.00,48d,0d,48d,0%,21/10/2021,28/12/2021,6,No,No,8,As Soon As Possible,Medium,88,8
+70,"Lab , Homework, Documentation Documents Updated",8,1,$0.00,48d,0d,48d,0%,21/10/2021,28/12/2021,6,No,No,8,As Soon As Possible,Medium,88,8
 71,Example lab procedures that meet objectives will be drafted during this phase. Collaboration between the lab staff and the professors that will be teaching this class is desirable. Lab R/D staff may draft procedures if professor attention is scarce. This should take place between the end of D term and the start of E1
 75,3,0.5,48d,,0d,,,,,21/10/2021,28/12/2021,,3
 76,,0,0,NA,NA
-70,C-E1 Update all of the lecture slides and record videos,9,1,$0.00,99d,0d,99d,0%,29/12/2021,16/05/2022,8,No,No,9,As Soon As Possible,Medium,89,9
+70,Update all of the lecture slides and record videos,9,1,$0.00,100d,0d,100d,0%,29/12/2021,17/05/2022,8,No,No,9,As Soon As Possible,Medium,89,9
 71,Any lecture slides for this class should be updated. The student workers will be using the slides as the source of material for performing the new labs. If the professor wishes to give test lectures the students will be available for that as well. This would also be the period that any new tutorial videos should be recorded.  Any live lectures given to student workers can be recorded and used as the lectures for the A term ISP to lighten the load of the teaching professor. 
-75,3,0.5,99d,,0d,,,,,29/12/2021,16/05/2022,,3
+75,3,0.5,100d,,0d,,,,,29/12/2021,17/05/2022,,3
 76,,0,0,NA,NA
 70,E1 Test Class Run With Paid Student Workers,10,1,$0.00,1d,0d,1d,0%,16/05/2022,16/05/2022,8,No,No,10,As Soon As Possible,Medium,94,10
 71,During E1 a test class with the new labs is run through. The students will have access to the new materials and have to complete the labs and homeworks. Any additional material needed will be highlighted by these student test. By running test classes with paid workers instead of paying students we ensure that no students grade or education outcome is influenced by the unknown-unknowns of the first drafts. 
@@ -198,13 +198,13 @@ MPX,Microsoft Project for Windows,4.0,ANSI
 71,During this period no budget can be spent. This time is spent by accouting. 
 70,Budget Availible to Lab Staff,20,1,$0.00,0d,0d,0d,0%,01/07/2022,01/07/2022,19,No,Yes,20,As Soon As Possible,Medium,148,20
 71,This budgut must be fully spent in 11 months. June has no budget spending during accounting resolution. 
-70,Previous years A term Test ISP For Credit,21,1,$0.00,37d,0d,37d,0%,25/08/2021,14/10/2021,,No,No,21,As Soon As Possible,Medium,195,21
+70,Previous years Test ISP For Credit,21,1,$0.00,37d,0d,37d,0%,25/08/2021,14/10/2021,,No,No,21,As Soon As Possible,Medium,195,21
 71,An ISP  is run for 3 students that will cross-count for the class that is being updated. Students should have access to updated lecture slides and new tutorial videos.  Recorded lectures from the summer session can be used and supplemented by live instruction as the professor sees fit. 
 75,1,0.5,37d,,0d,,,,,25/08/2021,14/10/2021,,1
 76,,0,0,NA,NA
 75,3,0.5,37d,,0d,,,,,25/08/2021,14/10/2021,,3
 76,,0,0,NA,NA
-70,Previous Years B term Feedback From Experimental Class Incorporated,22,1,$0.00,44d,0d,44d,0%,15/10/2021,16/12/2021,21,No,No,22,As Soon As Possible,Medium,197,22
+70,Previous Years Feedback From Experimental Class Incorporated,22,1,$0.00,44d,0d,44d,0%,15/10/2021,16/12/2021,21,No,No,22,As Soon As Possible,Medium,197,22
 71,Any changes in documentation or teaching materials are re-incorporated and finalized into the final version of the materials. 
 75,1,0.5,44d,,0d,,,,,15/10/2021,16/12/2021,,1
 76,,0,0,NA,NA
@@ -224,11 +224,11 @@ MPX,Microsoft Project for Windows,4.0,ANSI
 76,,0,0,NA,NA
 75,3,0.25,18d,,0d,,,,,11/05/2022,03/06/2022,,3
 76,,0,0,NA,NA
-70,Next Year A-B break Propose new changes,26,1,$0.00,0d,0d,0d,0%,06/06/2022,06/06/2022,25,No,Yes,26,As Soon As Possible,Medium,215,26
+70,Next Year  Propose new changes,26,1,$0.00,0d,0d,0d,0%,06/06/2022,06/06/2022,25,No,Yes,26,As Soon As Possible,Medium,215,26
 71,"The A-B break scheduled as the official proposal season for new changes. Which class is to be updated follows a know cycle. 5 years (or as many are available) of student outcomes with the previous version of the class should be addressed. Advisory Board feedback is expected before proposing a new change. Changes should take the form of lab objectives, and homework objectives. "
 75,2,1,0d,,0d,,,,,06/06/2022,06/06/2022,,2
 76,,0,0,NA,NA
-70,Next Year B term Open Discussion of changes Period,27,1,$0.00,60d,0d,60d,0%,06/06/2022,29/08/2022,26,No,No,27,As Soon As Possible,Medium,217,27
+70,Next Year Open Discussion of changes Period,27,1,$0.00,60d,0d,60d,0%,06/06/2022,29/08/2022,26,No,No,27,As Soon As Possible,Medium,217,27
 71,During this period the proposed changes are discussed by the faculty and the issues sent back to UPC. Curriculum issues are highlighted and the petogogical objectives are evaluated. 
 75,4,1,60d,,0d,,,,,06/06/2022,29/08/2022,,4
 76,,0,0,NA,NA
@@ -238,7 +238,7 @@ MPX,Microsoft Project for Windows,4.0,ANSI
 76,,0,0,NA,NA
 75,2,1,0d,,0d,,,,,30/08/2022,30/08/2022,,2
 76,,0,0,NA,NA
-70,Next Year C term Convert Requirements to Specifications,29,1,$0.00,41d,0d,41d,0%,30/08/2022,25/10/2022,"12,28",No,No,29,As Soon As Possible,Medium,221,29
+70,Next Year Convert Requirements to Specifications,29,1,$0.00,41d,0d,41d,0%,30/08/2022,25/10/2022,"12,28",No,No,29,As Soon As Possible,Medium,221,29
 71,Take the Requirements and conver them into parts selection options. Be prepared to discuss the discuss *multiple parts kit options* as specificitions that meet the Requirements. 
 75,1,0.5,41d,,0d,,,,,30/08/2022,25/10/2022,,1
 76,,0,0,NA,NA
@@ -248,11 +248,11 @@ MPX,Microsoft Project for Windows,4.0,ANSI
 76,,0,0,NA,NA
 75,2,1,0d,,0d,,,,,26/10/2022,26/10/2022,,2
 76,,0,0,NA,NA
-70,Next Year D Term Development Phase,31,1,$0.00,40d,0d,40d,0%,26/10/2022,21/12/2022,30,No,No,31,As Soon As Possible,Medium,225,31
+70,Next Year  Development Phase,31,1,$0.00,40d,0d,40d,0%,26/10/2022,21/12/2022,30,No,No,31,As Soon As Possible,Medium,225,31
 71,In this phase the hardware kits for all hands-on activities should be fully built and tested by R/D staff. Consideration should be given to how this kit interfaces with existing kits of hardware. Tools for working with the hands-on activity are also tested. Tool compatibility with Lab PC's must be verified. This cycles budget comes from the previous years APBP.
 75,1,0.5,40d,,0d,,,,,26/10/2022,21/12/2022,,1
 76,,0,0,NA,NA
-70,"Next Year D term Lab , Homework, Documentation Documents Updated",32,1,$0.00,100d,0d,100d,0%,26/10/2022,15/03/2023,30,No,No,32,As Soon As Possible,Medium,227,32
+70,"Next Year Lab , Homework, Documentation Documents Updated",32,1,$0.00,48d,0d,48d,0%,26/10/2022,02/01/2023,30,No,No,32,As Soon As Possible,Medium,227,32
 71,Example lab procedures that meet objectives will be drafted during this phase. Collaboration between the lab staff and the professors that will be teaching this class is desirable. Lab R/D staff may draft procedures if professor attention is scarce. This should take place between the end of D term and the start of E1
-75,3,0.5,100d,,0d,,,,,26/10/2022,15/03/2023,,3
+75,3,0.5,48d,,0d,,,,,26/10/2022,02/01/2023,,3
 76,,0,0,NA,NA
