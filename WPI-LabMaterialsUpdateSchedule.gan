@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="RBE Hands-on Materials Update Policy" company="WPI Robotics Department" webLink="https://www.wpi.edu/+robotics-engineering" view-date="2021-05-01" view-index="0" gantt-divider-location="429" resource-divider-location="390" version="2.8.11" locale="en_US">
+<?xml version="1.0" encoding="UTF-8"?><project name="RBE Hands-on Materials Update Policy" company="WPI Robotics Department" webLink="https://www.wpi.edu/+robotics-engineering" view-date="2021-05-01" view-index="1" gantt-divider-location="429" resource-divider-location="390" version="2.8.11" locale="en_US">
     <description><![CDATA[* Purpose:
 
 This represents the official procedure for changing materials used in hands-on activities with students in the Robotics Department at WPI. 
@@ -494,7 +494,7 @@ This should take place between the end of D term and the start of E1]]></notes>
         <resource id="3" name="All Faculty" function="3" contacts="" phone=""/>
         <resource id="2" name="Professors of Class Being Updated" function="3" contacts="" phone=""/>
         <resource id="8" name="Previous Years Professor" function="3" contacts="" phone=""/>
-        <resource id="9" name="Next Yeard Professor" function="3" contacts="" phone=""/>
+        <resource id="9" name="Next Years Professor" function="3" contacts="" phone=""/>
     </resources>
     <allocations>
         <allocation task-id="13" resource-id="0" function="Default:0" responsible="false" load="100.0"/>
@@ -537,8 +537,10 @@ This should take place between the end of D term and the start of E1]]></notes>
         <allocation task-id="96" resource-id="2" function="3" responsible="false" load="25.0"/>
         <allocation task-id="94" resource-id="2" function="3" responsible="false" load="50.0"/>
         <allocation task-id="227" resource-id="2" function="3" responsible="true" load="50.0"/>
+        <allocation task-id="120" resource-id="2" function="3" responsible="false" load="50.0"/>
         <allocation task-id="195" resource-id="8" function="3" responsible="true" load="50.0"/>
         <allocation task-id="197" resource-id="8" function="3" responsible="false" load="50.0"/>
+        <allocation task-id="191" resource-id="8" function="3" responsible="false" load="50.0"/>
         <allocation task-id="213" resource-id="9" function="3" responsible="false" load="25.0"/>
     </allocations>
     <vacations/>

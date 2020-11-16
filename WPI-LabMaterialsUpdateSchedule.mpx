@@ -109,7 +109,7 @@ MPX,Microsoft Project for Windows,4.0,ANSI
 50,All Faculty,,3,4
 50,Professors of Class Being Updated,,4,3
 50,Previous Years Professor,,5,9
-50,Next Yeard Professor,,6,10
+50,Next Years Professor,,6,10
 60,Name,WBS,Outline Level,Cost,Duration,Actual Duration,Remaining Duration,% Complete,Start,Finish,Predecessors,Fixed,Milestone,ID,Constraint Type,Priority,Unique ID,Outline Number
 61,1,2,3,30,40,42,43,44,50,51,70,80,81,90,91,95,98,99
 70,,0,0,,704d,,,,10/05/2021,13/04/2023,,No,,0,As Soon As Possible,,0,0
@@ -196,7 +196,7 @@ MPX,Microsoft Project for Windows,4.0,ANSI
 76,,0,0,NA,NA
 70,Second Semester Roll Out,18,1,$0.00,84d,0d,84d,0%,19/12/2022,13/04/2023,"16,17",No,No,18,As Soon As Possible,Medium,120,18
 71,"The second semester version of the class in question will receive the full class update. For 1001, 2001 and 3001 this means C term roll out.For 2002 and 3002 that means a D term roll out."
-75,4,0.25,84d,,0d,,,,,19/12/2022,13/04/2023,,3
+75,4,0.5,84d,,0d,,,,,19/12/2022,13/04/2023,,3
 76,,0,0,NA,NA
 70,Pervious Years Budget Availible to Lab Staff,19,1,$0.00,0d,0d,0d,0%,01/07/2021,01/07/2021,,No,Yes,19,As Soon As Possible,Medium,286,19
 71,This budgut must be fully spent in 11 months. June has no budget spending during accounting resolution. 
@@ -220,6 +220,8 @@ MPX,Microsoft Project for Windows,4.0,ANSI
 76,,0,0,NA,NA
 70,Previous Years Update Rollout,25,1,$0.00,86d,0d,86d,0%,17/12/2021,15/04/2022,"24,26",No,No,25,As Soon As Possible,Medium,191,25
 75,1,0.25,86d,,0d,,,,,17/12/2021,15/04/2022,,1
+76,,0,0,NA,NA
+75,5,0.5,86d,,0d,,,,,17/12/2021,15/04/2022,,9
 76,,0,0,NA,NA
 70,Previous Years Production TIme,26,1,$0.00,60d,0d,60d,0%,25/08/2021,17/11/2021,"23SS,19",No,No,26,As Soon As Possible,Medium,207,26
 75,1,0.25,60d,,0d,,,,,25/08/2021,17/11/2021,,1
