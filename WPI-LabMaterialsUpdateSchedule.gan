@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="RBE Hands-on Materials Update Policy" company="WPI Robotics Department" webLink="https://www.wpi.edu/+robotics-engineering" view-date="2021-08-01" view-index="0" gantt-divider-location="484" resource-divider-location="300" version="2.8.11" locale="en_US">
+<?xml version="1.0" encoding="UTF-8"?><project name="RBE Hands-on Materials Update Policy" company="WPI Robotics Department" webLink="https://www.wpi.edu/+robotics-engineering" view-date="2021-07-01" view-index="0" gantt-divider-location="484" resource-divider-location="300" version="2.8.11" locale="en_US">
     <description><![CDATA[* Purpose:
 
 This represents the official procedure for changing materials used in hands-on activities with students in the Robotics Department at WPI. 
@@ -47,8 +47,8 @@ Material and tools retired from previous cycles of the hands-on system can be ma
         <option id="color.recent"><![CDATA[#00ff00]]></option>
     </view>
     <view id="resource-table">
-        <field id="0" name="Name" width="176" order="0"/>
-        <field id="1" name="Default role" width="120" order="1"/>
+        <field id="0" name="Name" width="257" order="0"/>
+        <field id="1" name="Default role" width="39" order="1"/>
     </view>
     <!-- -->
     <calendars base-id="us.federal">
@@ -327,7 +327,7 @@ Students should have access to updated lecture slides and new tutorial videos.  
 ]]></notes>
             <depend id="118" type="2" difference="0" hardness="Rubber"/>
         </task>
-        <task id="118" name="Finalize Course Material" color="#8cb6ce" meeting="true" start="2023-01-06" duration="0" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
+        <task id="118" name="Finalize Course Material" color="#8cb6ce" meeting="true" start="2022-12-19" duration="0" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
             <notes><![CDATA[Milestone
 
 Final version of lecture slides.
@@ -346,7 +346,7 @@ Kit of all this material is presented to UPC for archival and for use with by an
         <task id="160" name="Production TIme" color="#8cb6ce" meeting="false" start="2022-08-25" duration="60" complete="0" thirdDate="2021-08-02" thirdDate-constraint="0" expand="true">
             <depend id="120" type="2" difference="0" hardness="Rubber"/>
         </task>
-        <task id="120" name="Second Semester Roll Out" color="#8cb6ce" meeting="false" start="2023-01-06" duration="84" complete="0" thirdDate="2022-05-02" thirdDate-constraint="0" expand="true">
+        <task id="120" name="Second Semester Roll Out" color="#8cb6ce" meeting="false" start="2022-12-19" duration="84" complete="0" thirdDate="2022-05-02" thirdDate-constraint="0" expand="true">
             <notes><![CDATA[The second semester version of the class in question will receive the full class update. 
 
 For 1001, 2001 and 3001 this means C term roll out.
@@ -370,6 +370,20 @@ This plan should include the development cycle, the summer student testing suppo
 June has no budget spending during accounting resolution. ]]></notes>
             <depend id="103" type="2" difference="0" hardness="Rubber"/>
         </task>
+        <task id="195" name="Previous years A term Test ISP For Credit" color="#8cb6ce" meeting="false" start="2021-08-25" duration="37" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
+            <notes><![CDATA[
+An ISP  is run for 3 students that will cross-count for the class that is being updated. 
+
+Students should have access to updated lecture slides and new tutorial videos.  Recorded lectures from the summer session can be used and supplemented by live instruction as the professor sees fit. 
+]]></notes>
+            <depend id="197" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="197" name="Previous Years B term Feedback From Experimental Class Incorporated" color="#8cb6ce" meeting="false" start="2021-10-15" duration="44" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
+            <notes><![CDATA[Any changes in documentation or teaching materials are re-incorporated and finalized into the final version of the materials. 
+]]></notes>
+            <depend id="191" type="2" difference="0" hardness="Rubber"/>
+        </task>
+        <task id="191" name="Previous Years Update Rollout" color="#8cb6ce" meeting="false" start="2022-01-11" duration="86" complete="0" thirdDate="2021-08-02" thirdDate-constraint="0" expand="true"/>
     </tasks>
     <resources>
         <resource id="0" name="Lab Staff Engineers" function="1" contacts="" phone=""/>
@@ -379,28 +393,33 @@ June has no budget spending during accounting resolution. ]]></notes>
     </resources>
     <allocations>
         <allocation task-id="13" resource-id="0" function="Default:0" responsible="false" load="100.0"/>
-        <allocation task-id="17" resource-id="0" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="17" resource-id="0" function="Default:0" responsible="true" load="50.0"/>
         <allocation task-id="24" resource-id="0" function="Default:0" responsible="false" load="100.0"/>
-        <allocation task-id="54" resource-id="0" function="1" responsible="false" load="100.0"/>
-        <allocation task-id="55" resource-id="0" function="1" responsible="true" load="100.0"/>
+        <allocation task-id="54" resource-id="0" function="1" responsible="false" load="50.0"/>
+        <allocation task-id="55" resource-id="0" function="1" responsible="true" load="50.0"/>
         <allocation task-id="114" resource-id="0" function="1" responsible="true" load="50.0"/>
         <allocation task-id="110" resource-id="0" function="1" responsible="true" load="50.0"/>
         <allocation task-id="96" resource-id="0" function="1" responsible="true" load="75.0"/>
         <allocation task-id="94" resource-id="0" function="1" responsible="true" load="50.0"/>
-        <allocation task-id="160" resource-id="0" function="1" responsible="true" load="100.0"/>
+        <allocation task-id="160" resource-id="0" function="1" responsible="true" load="50.0"/>
+        <allocation task-id="191" resource-id="0" function="1" responsible="true" load="50.0"/>
+        <allocation task-id="195" resource-id="0" function="1" responsible="true" load="50.0"/>
+        <allocation task-id="197" resource-id="0" function="1" responsible="true" load="50.0"/>
         <allocation task-id="0" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
         <allocation task-id="13" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
         <allocation task-id="24" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
-        <allocation task-id="54" resource-id="1" function="2" responsible="true" load="100.0"/>
+        <allocation task-id="54" resource-id="1" function="2" responsible="true" load="50.0"/>
         <allocation task-id="118" resource-id="1" function="3" responsible="true" load="100.0"/>
-        <allocation task-id="54" resource-id="2" function="3" responsible="false" load="100.0"/>
+        <allocation task-id="54" resource-id="2" function="3" responsible="false" load="25.0"/>
         <allocation task-id="88" resource-id="2" function="3" responsible="true" load="50.0"/>
         <allocation task-id="89" resource-id="2" function="3" responsible="true" load="50.0"/>
-        <allocation task-id="120" resource-id="2" function="3" responsible="true" load="100.0"/>
+        <allocation task-id="120" resource-id="2" function="3" responsible="true" load="50.0"/>
         <allocation task-id="114" resource-id="2" function="3" responsible="false" load="50.0"/>
         <allocation task-id="110" resource-id="2" function="3" responsible="true" load="50.0"/>
         <allocation task-id="96" resource-id="2" function="3" responsible="false" load="25.0"/>
         <allocation task-id="94" resource-id="2" function="3" responsible="false" load="50.0"/>
+        <allocation task-id="195" resource-id="2" function="3" responsible="true" load="50.0"/>
+        <allocation task-id="197" resource-id="2" function="3" responsible="false" load="50.0"/>
         <allocation task-id="4" resource-id="3" function="4" responsible="true" load="100.0"/>
     </allocations>
     <vacations/>
