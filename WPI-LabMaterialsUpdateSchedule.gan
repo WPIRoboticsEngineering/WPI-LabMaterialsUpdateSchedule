@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="RBE Hands-on Materials Update Policy" company="WPI Robotics Department" webLink="https://www.wpi.edu/+robotics-engineering" view-date="2021-08-01" view-index="0" gantt-divider-location="484" resource-divider-location="300" version="2.8.11" locale="en_US">
+<?xml version="1.0" encoding="UTF-8"?><project name="RBE Hands-on Materials Update Policy" company="WPI Robotics Department" webLink="https://www.wpi.edu/+robotics-engineering" view-date="2022-01-01" view-index="0" gantt-divider-location="484" resource-divider-location="474" version="2.8.11" locale="en_US">
     <description><![CDATA[* Purpose:
 
 This represents the official procedure for changing materials used in hands-on activities with students in the Robotics Department at WPI. 
@@ -40,15 +40,15 @@ The goal is to go in reverse order so that the new topics at the top that need b
 Material and tools retired from previous cycles of the hands-on system can be made available to students for MQP work, can be allocated to graduate labs for use in research, or allocated for use in graduate classes adding hardware component to graduate studies.
 
 ]]></description>
-    <view zooming-state="default:11" id="gantt-chart">
+    <view zooming-state="default:10" id="gantt-chart">
         <field id="tpd3" name="Name" width="340" order="0"/>
         <field id="tpd4" name="Begin date" width="80" order="1"/>
         <field id="tpd5" name="End date" width="60" order="2"/>
         <option id="color.recent"><![CDATA[#00ff00]]></option>
     </view>
     <view id="resource-table">
-        <field id="0" name="Name" width="257" order="0"/>
-        <field id="1" name="Default role" width="39" order="1"/>
+        <field id="0" name="Name" width="344" order="0"/>
+        <field id="1" name="Default role" width="126" order="1"/>
     </view>
     <!-- -->
     <calendars base-id="us.federal">
@@ -304,8 +304,9 @@ This should take place between the end of D term and the start of E1]]></notes>
 
 The second run through the labs produce a set of known-good solution examples to be provided to graders and SA's. 
 ]]></notes>
+            <depend id="103" type="2" difference="0" hardness="Rubber"/>
         </task>
-        <task id="103" name="Milestone A term Start All Documents updated" color="#8cb6ce" meeting="true" start="2022-07-01" duration="0" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
+        <task id="103" name="Milestone A term Start" color="#8cb6ce" meeting="true" start="2022-08-25" duration="0" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
             <notes><![CDATA[All Documents updated
 
 Documents for new labs, homeworks and instructions are all updated, tested and ready for use with a test class. 
@@ -313,8 +314,9 @@ Documents for new labs, homeworks and instructions are all updated, tested and r
 This milestone triggers the bulk purchase of new components in second semester roll out. Production orders for new hardware placed now. New device production should be sent out to the in house production as much as possible. ]]></notes>
             <depend id="110" type="2" difference="0" hardness="Strong"/>
             <depend id="160" type="2" difference="0" hardness="Strong"/>
+            <depend id="213" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="110" name="A term Test ISP For Credit" color="#8cb6ce" meeting="false" start="2022-07-01" duration="37" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
+        <task id="110" name="A term Test ISP For Credit" color="#8cb6ce" meeting="false" start="2022-08-25" duration="37" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
             <notes><![CDATA[
 An ISP  is run for 3 students that will cross-count for the class that is being updated. 
 
@@ -322,7 +324,7 @@ Students should have access to updated lecture slides and new tutorial videos.  
 ]]></notes>
             <depend id="114" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="114" name="B term Feedback From Experimental Class Incorporated" color="#8cb6ce" meeting="false" start="2022-08-24" duration="44" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
+        <task id="114" name="B term Feedback From Experimental Class Incorporated" color="#8cb6ce" meeting="false" start="2022-10-17" duration="44" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
             <notes><![CDATA[Any changes in documentation or teaching materials are re-incorporated and finalized into the final version of the materials. 
 ]]></notes>
             <depend id="118" type="2" difference="0" hardness="Rubber"/>
@@ -343,7 +345,7 @@ Known good solutions are updated with the Experimental course solutions.
 Kit of all this material is presented to UPC for archival and for use with by any future teaching professors. ]]></notes>
             <depend id="120" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="160" name="Production TIme" color="#8cb6ce" meeting="false" start="2022-07-01" duration="60" complete="0" thirdDate="2021-08-02" thirdDate-constraint="0" expand="true">
+        <task id="160" name="Production TIme" color="#8cb6ce" meeting="false" start="2022-08-25" duration="60" complete="0" thirdDate="2021-08-02" thirdDate-constraint="0" expand="true">
             <depend id="120" type="2" difference="0" hardness="Rubber"/>
         </task>
         <task id="120" name="Second Semester Roll Out" color="#8cb6ce" meeting="false" start="2022-12-19" duration="84" complete="0" thirdDate="2022-05-02" thirdDate-constraint="0" expand="true">
@@ -474,17 +476,17 @@ This should take place between the end of D term and the start of E1]]></notes>
         <allocation task-id="13" resource-id="0" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="17" resource-id="0" function="Default:0" responsible="true" load="50.0"/>
         <allocation task-id="24" resource-id="0" function="Default:0" responsible="false" load="100.0"/>
-        <allocation task-id="54" resource-id="0" function="1" responsible="false" load="50.0"/>
+        <allocation task-id="54" resource-id="0" function="1" responsible="false" load="25.0"/>
         <allocation task-id="55" resource-id="0" function="1" responsible="true" load="50.0"/>
         <allocation task-id="114" resource-id="0" function="1" responsible="true" load="50.0"/>
-        <allocation task-id="110" resource-id="0" function="1" responsible="true" load="50.0"/>
-        <allocation task-id="96" resource-id="0" function="1" responsible="true" load="75.0"/>
+        <allocation task-id="110" resource-id="0" function="1" responsible="true" load="25.0"/>
+        <allocation task-id="96" resource-id="0" function="1" responsible="true" load="50.0"/>
         <allocation task-id="94" resource-id="0" function="1" responsible="true" load="50.0"/>
-        <allocation task-id="160" resource-id="0" function="1" responsible="true" load="50.0"/>
-        <allocation task-id="191" resource-id="0" function="1" responsible="true" load="50.0"/>
+        <allocation task-id="160" resource-id="0" function="1" responsible="true" load="25.0"/>
+        <allocation task-id="191" resource-id="0" function="1" responsible="true" load="25.0"/>
         <allocation task-id="195" resource-id="0" function="1" responsible="true" load="50.0"/>
         <allocation task-id="197" resource-id="0" function="1" responsible="true" load="50.0"/>
-        <allocation task-id="207" resource-id="0" function="1" responsible="true" load="50.0"/>
+        <allocation task-id="207" resource-id="0" function="1" responsible="true" load="25.0"/>
         <allocation task-id="213" resource-id="0" function="1" responsible="false" load="50.0"/>
         <allocation task-id="219" resource-id="0" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="221" resource-id="0" function="Default:0" responsible="true" load="50.0"/>
@@ -502,7 +504,7 @@ This should take place between the end of D term and the start of E1]]></notes>
         <allocation task-id="54" resource-id="2" function="3" responsible="false" load="25.0"/>
         <allocation task-id="88" resource-id="2" function="3" responsible="true" load="50.0"/>
         <allocation task-id="89" resource-id="2" function="3" responsible="true" load="50.0"/>
-        <allocation task-id="120" resource-id="2" function="3" responsible="true" load="50.0"/>
+        <allocation task-id="120" resource-id="2" function="3" responsible="true" load="25.0"/>
         <allocation task-id="114" resource-id="2" function="3" responsible="false" load="50.0"/>
         <allocation task-id="110" resource-id="2" function="3" responsible="true" load="50.0"/>
         <allocation task-id="96" resource-id="2" function="3" responsible="false" load="25.0"/>
