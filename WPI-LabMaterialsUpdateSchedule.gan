@@ -283,6 +283,7 @@ Tools for working with the hands-on activity are also tested.
 Tool compatibility with Lab PC's must be verified. 
 
 This cycles budget comes from the previous years APBP.]]></notes>
+            <depend id="311" type="2" difference="0" hardness="Strong"/>
         </task>
         <task id="88" name="Lab , Homework, Documentation Documents Updated" color="#8cb6ce" meeting="false" start="2021-10-21" duration="48" complete="0" thirdDate="2021-07-01" thirdDate-constraint="0" expand="true">
             <notes><![CDATA[Example lab procedures that meet objectives will be drafted during this phase. Collaboration between the lab staff and the professors that will be teaching this class is desirable. Lab R/D staff may draft procedures if professor attention is scarce. 
@@ -295,6 +296,9 @@ This should take place between the end of D term and the start of E1]]></notes>
         <task id="89" name="Update all of the lecture slides and record videos" color="#8cb6ce" meeting="false" start="2021-12-29" duration="100" complete="0" thirdDate="2021-07-01" thirdDate-constraint="0" expand="true">
             <notes><![CDATA[Any lecture slides for this class should be updated. The student workers will be using the slides as the source of material for performing the new labs. If the professor wishes to give test lectures the students will be available for that as well. This would also be the period that any new tutorial videos should be recorded.  Any live lectures given to student workers can be recorded and used as the lectures for the A term ISP to lighten the load of the teaching professor. ]]></notes>
             <depend id="103" type="2" difference="0" hardness="Rubber"/>
+        </task>
+        <task id="311" name="Custom Electronics Development Period" color="#8cb6ce" meeting="false" start="2021-12-17" duration="100" complete="0" thirdDate="2021-05-03" thirdDate-constraint="0" expand="true">
+            <depend id="94" type="2" difference="0" hardness="Rubber"/>
         </task>
         <task id="94" name="E1 Test Class Run With Paid Student Workers" color="#8cb6ce" meeting="false" start="2022-05-16" duration="34" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
             <notes><![CDATA[During E1 a test class with the new labs is run through. The students will have access to the new materials and have to complete the labs and homeworks. Any additional material needed will be highlighted by these student test. By running test classes with paid workers instead of paying students we ensure that no students grade or education outcome is influenced by the unknown-unknowns of the first drafts. ]]></notes>
@@ -509,6 +513,7 @@ This should take place between the end of D term and the start of E1]]></notes>
         <allocation task-id="221" resource-id="0" function="Default:0" responsible="true" load="50.0"/>
         <allocation task-id="223" resource-id="0" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="225" resource-id="0" function="1" responsible="true" load="50.0"/>
+        <allocation task-id="311" resource-id="0" function="1" responsible="true" load="50.0"/>
         <allocation task-id="0" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
         <allocation task-id="13" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
         <allocation task-id="24" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
