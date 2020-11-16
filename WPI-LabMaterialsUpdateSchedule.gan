@@ -306,7 +306,7 @@ The second run through the labs produce a set of known-good solution examples to
 ]]></notes>
             <depend id="103" type="2" difference="0" hardness="Rubber"/>
         </task>
-        <task id="103" name="Milestone A term Start" color="#8cb6ce" meeting="true" start="2022-08-25" duration="0" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
+        <task id="103" name="Milestone A term Start" color="#8cb6ce" meeting="true" start="2022-08-15" duration="0" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
             <notes><![CDATA[All Documents updated
 
 Documents for new labs, homeworks and instructions are all updated, tested and ready for use with a test class. 
@@ -316,7 +316,7 @@ This milestone triggers the bulk purchase of new components in second semester r
             <depend id="160" type="2" difference="0" hardness="Strong"/>
             <depend id="221" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="110" name="A term Test ISP For Credit" color="#8cb6ce" meeting="false" start="2022-08-25" duration="37" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
+        <task id="110" name="A term Test ISP For Credit" color="#8cb6ce" meeting="false" start="2022-08-15" duration="37" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true">
             <notes><![CDATA[
 An ISP  is run for 3 students that will cross-count for the class that is being updated. 
 
@@ -345,7 +345,7 @@ Known good solutions are updated with the Experimental course solutions.
 Kit of all this material is presented to UPC for archival and for use with by any future teaching professors. ]]></notes>
             <depend id="120" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="160" name="Production TIme" color="#8cb6ce" meeting="false" start="2022-08-25" duration="60" complete="0" thirdDate="2021-08-02" thirdDate-constraint="0" expand="true">
+        <task id="160" name="Production TIme" color="#8cb6ce" meeting="false" start="2022-08-15" duration="60" complete="0" thirdDate="2021-08-02" thirdDate-constraint="0" expand="true">
             <depend id="120" type="2" difference="0" hardness="Rubber"/>
         </task>
         <task id="120" name="Second Semester Roll Out" color="#8cb6ce" meeting="false" start="2022-12-19" duration="84" complete="0" thirdDate="2022-05-02" thirdDate-constraint="0" expand="true">
@@ -354,6 +354,13 @@ Kit of all this material is presented to UPC for archival and for use with by an
 For 1001, 2001 and 3001 this means C term roll out.
 
 For 2002 and 3002 that means a D term roll out.]]></notes>
+        </task>
+        <task id="286" name="Pervious Years Budget Availible to Lab Staff" color="#00ff00" meeting="true" start="2021-07-01" duration="0" complete="0" thirdDate="2021-08-02" thirdDate-constraint="0" expand="true">
+            <notes><![CDATA[This budgut must be fully spent in 11 months. 
+
+June has no budget spending during accounting resolution. ]]></notes>
+            <depend id="17" type="2" difference="0" hardness="Strong"/>
+            <depend id="55" type="2" difference="0" hardness="Rubber"/>
         </task>
         <task id="143" name="Budget Plan Due APBP For Next Year" color="#00ff00" meeting="true" start="2022-03-15" duration="0" complete="0" thirdDate="2021-07-01" thirdDate-constraint="0" expand="true">
             <notes><![CDATA[The plan for how we intend to spend any money spent next year has to be submitted here. 
@@ -371,6 +378,8 @@ This plan should include the development cycle, the summer student testing suppo
 
 June has no budget spending during accounting resolution. ]]></notes>
             <depend id="103" type="2" difference="0" hardness="Rubber"/>
+            <depend id="221" type="2" difference="0" hardness="Strong"/>
+            <depend id="225" type="2" difference="0" hardness="Strong"/>
         </task>
         <task id="195" name="Previous years Test ISP For Credit" color="#ff99ff" meeting="false" start="2021-08-25" duration="37" complete="0" thirdDate="2021-11-01" thirdDate-constraint="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
             <notes><![CDATA[
