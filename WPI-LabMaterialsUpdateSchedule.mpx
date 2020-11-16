@@ -240,7 +240,9 @@ MPX,Microsoft Project for Windows,4.0,ANSI
 76,,0,0,NA,NA
 70,Next Year Open Discussion of changes Period,29,1,$0.00,60d,0d,60d,0%,12/05/2022,04/08/2022,28,No,No,29,As Soon As Possible,Medium,217,29
 71,During this period the proposed changes are discussed by the faculty and the issues sent back to UPC. Curriculum issues are highlighted and the petogogical objectives are evaluated. 
-75,3,1,60d,,0d,,,,,12/05/2022,04/08/2022,,4
+75,3,0.25,60d,,0d,,,,,12/05/2022,04/08/2022,,4
+76,,0,0,NA,NA
+75,5,0.25,60d,,0d,,,,,12/05/2022,04/08/2022,,9
 76,,0,0,NA,NA
 70,Next Year Changes Finalized Into Requirements - Passed to R/D,30,1,$0.00,0d,0d,0d,0%,05/08/2022,05/08/2022,29,No,Yes,30,As Soon As Possible,Medium,219,30
 71,"Milestone: Finalize change requestWith approval of the faculty, the changes proposed by UPC are passed off to Lab Design Engineers for R/D. This unlocks some of the development funds to purchase and produce preliminary parts for evaluation. These parts may or may not make it to the lab test round. If they are not used, they will be availible to students through Odoo. This represents new lab and homework objectives. This should be a complete list of the required objectives for hands on learning in the class. This should take into account what skills can be assumed from previous classes.This should  tak into account what practical skills the class needs to provide to classes later in the series. "
